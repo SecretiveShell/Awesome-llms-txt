@@ -226,6 +226,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [docs.frigade.com](https://docs.frigade.com/llms.txt)
 - [docs.galileo.ai](https://docs.galileo.ai/llms.txt)
 - [docs.getomni.ai](https://docs.getomni.ai/llms.txt)
+- [docs.giselles.ai (full)](https://docs.giselles.ai/llms-full.txt)
+- [docs.giselles.ai](https://docs.giselles.ai/llms.txt)
 - [docs.gitbook.com](https://docs.gitbook.com/llms.txt)
 - [docs.glood.ai](https://docs.glood.ai/llms.txt)
 - [docs.goldsky.com (full)](https://docs.goldsky.com/llms-full.txt)
