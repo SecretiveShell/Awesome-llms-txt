@@ -593,6 +593,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [vidovi.ch](https://vidovi.ch/llms.txt)
 - [viem.sh (full)](https://viem.sh/llms-full.txt)
 - [viem.sh](https://viem.sh/llms.txt)
+- [visioforge.com](https://www.visioforge.com/llms-full.txt)
 - [vue-macros.dev (full)](https://vue-macros.dev/llms-full.txt)
 - [vue-macros.dev](https://vue-macros.dev/llms.txt)
 - [wandler.ai](https://wandler.ai/llms.txt)
