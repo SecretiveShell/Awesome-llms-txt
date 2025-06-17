@@ -566,6 +566,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [svelte.jp](https://svelte.jp/llms.txt)
 - [svelte.nodejs.cn (full)](https://svelte.nodejs.cn/llms-full.txt)
 - [tamagui.dev](https://tamagui.dev/llms.txt)
+- [taskade.com](https://www.taskade.com/llms.txt)
 - [telescope.co](https://telescope.co/llms.txt)
 - [thdu.dev](https://thdu.dev/llms.txt)
 - [theirstack.com (full)](https://theirstack.com/docs/llms-full.txt)
