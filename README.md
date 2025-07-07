@@ -535,7 +535,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [rainbowkit.com](https://rainbowkit.com/llms.txt)
 - [raincamp.ai](https://raincamp.ai/llms.txt)
 - [rankscale.ai](https://rankscale.ai/llms.txt)
-- [raw.usercontent.com (full)](https://raw.githubusercontent.com/raycast/extensions/refs/heads/gh-pages/llms-full.txt)
+- [raw.githubusercontent.com (full)](https://raw.githubusercontent.com/raycast/extensions/refs/heads/gh-pages/llms-full.txt)
 - [razor-press.web-templates.io](https://razor-press.web-templates.io/llms.txt)
 - [remult.dev (full)](https://remult.dev/llms-full.txt)
 - [remult.dev](https://remult.dev/llms.txt)
