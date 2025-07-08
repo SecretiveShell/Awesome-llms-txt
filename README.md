@@ -49,6 +49,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [cv.ryoppippi.com (full)](https://cv.ryoppippi.com/llms-full.txt)
 - [daisyui.com](https://daisyui.com/llms.txt)
 - [daisyui.tailwind.org.cn](https://daisyui.tailwind.org.cn/llms.txt)
+- [gloss-floss.se](https://www.gloss-floss.se/llms.txt)
 - [datacamp.com](https://datacamp.com/llms.txt)
 - [datadrivenmarketer.me](https://datadrivenmarketer.me/llms.txt)
 - [dekomaer.com](https://dekomaer.com/llms.txt)
