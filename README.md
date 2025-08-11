@@ -339,6 +339,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [docs.replit.com](https://docs.replit.com/llms.txt)
 - [docs.rungalileo.io (full)](https://docs.rungalileo.io/llms-full.txt)
 - [docs.rungalileo.io](https://docs.rungalileo.io/llms.txt)
+- [docs.sunoapi.com](https://docs.sunoapi.com/llms.txt)
 - [docs.salesbricks.com (full)](https://docs.salesbricks.com/llms-full.txt)
 - [docs.salesbricks.com](https://docs.salesbricks.com/llms.txt)
 - [docs.sardine.ai (full)](https://docs.sardine.ai/llms-full.txt)
