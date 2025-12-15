@@ -529,6 +529,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [prisma.io](https://prisma.io/docs/llms.txt)
 - [prisma.io (full)](https://prisma.io/llms-full.txt)
 - [prisma.io](https://prisma.io/llms.txt)
+- [promptessor.com (full)](https://promptessor.com/llms-full.txt)
+- [promptessor.com](https://promptessor.com/llms-full.txt)
 - [python.langchain.com](https://python.langchain.com/llms.txt)
 - [rainbowkit.com (full)](https://rainbowkit.com/llms-full.txt)
 - [rainbowkit.com](https://rainbowkit.com/llms.txt)
