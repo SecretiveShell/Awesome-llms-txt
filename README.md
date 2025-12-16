@@ -39,6 +39,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [chakra-ui.com](https://chakra-ui.com/llms.txt)
 - [charles-migaud.fr](https://charles-migaud.fr/llms.txt)
 - [cichpack.com](https://cichpack.com/llms.txt)
+- [cleverhack dot com](https://cleverhack.com/llms.txt)
 - [cloud.needle.tools (full)](https://cloud.needle.tools/llms-full.txt)
 - [cloud.needle.tools](https://cloud.needle.tools/llms.txt)
 - [cog.run](https://cog.run/llms.txt)
