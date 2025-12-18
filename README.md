@@ -551,6 +551,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [semgrep.com](https://semgrep.com/llms.txt)
 - [semgrep.dev](https://semgrep.dev/llms.txt)
 - [seolevante.com](https://seolevante.com/llms.txt)
+- [sketchto.com](https://www.sketchto.com/llms.txt)
 - [sigtech.com](https://sigtech.com/llms.txt)
 - [siteria.by](https://siteria.by/llms.txt)
 - [sitespeak.ai](https://sitespeak.ai/llms.txt)
