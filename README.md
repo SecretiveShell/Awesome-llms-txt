@@ -445,6 +445,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [huggingface-projects-docs-llms-txt.hf.space](https://huggingface-projects-docs-llms-txt.hf.space/huggingface_hub/llms.txt)
 - [huggingface-projects-docs-llms-txt.hf.space](https://huggingface-projects-docs-llms-txt.hf.space/transformers/llms.txt)
 - [iceberg.ma](https://iceberg.ma/llms.txt)
+- [ilovegithub.oderna.in](https://raw.githubusercontent.com/crackedngineer/iLoveGithub/refs/heads/master/llm.txt)
 - [infisical.com (full)](https://infisical.com/docs/llms-full.txt)
 - [infisical.com](https://infisical.com/docs/llms.txt)
 - [inspira-ui.com (full)](https://inspira-ui.com/llms-full.txt)
