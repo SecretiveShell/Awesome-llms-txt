@@ -449,6 +449,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [infisical.com](https://infisical.com/docs/llms.txt)
 - [inspira-ui.com (full)](https://inspira-ui.com/llms-full.txt)
 - [inspira-ui.com](https://inspira-ui.com/llms.txt)
+- [inter-car.fr](https://inter-car.fr/llms.txt)
 - [iqboatlifts.com (full)](https://iqboatlifts.com/llms-full.txt)
 - [iqboatlifts.com](https://iqboatlifts.com/llms.txt)
 - [jazz.tools (full)](https://jazz.tools/llms-full.txt)
