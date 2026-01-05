@@ -33,6 +33,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [buckybodycenter.com](https://buckybodycenter.com/llms.txt)
 - [builtwith.com](https://builtwith.com/llms.txt)
 - [bun.sh](https://bun.sh/llms.txt)
+- [capital-placement.com](https://capital-placement.com/)
 - [carlo.ai](https://carlo.ai/llms.txt)
 - [cdn.popsmash.com](https://cdn.popsmash.com/llms.txt)
 - [chakra-ui.com (full)](https://chakra-ui.com/llms-full.txt)
