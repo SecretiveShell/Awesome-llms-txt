@@ -563,6 +563,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [starwind.dev](https://starwind.dev/llms.txt)
 - [sterkanazed.cz](https://sterkanazed.cz/llms.txt)
 - [supabase.com](https://supabase.com/llms.txt)
+- [supplementscience.ai](https://supplementscience.ai/llms.txt)
+- [supplementscience.ai (full)](https://supplementscience.ai/llms-full.txt)
 - [svelte.dev (full)](https://svelte.dev/llms-full.txt)
 - [svelte.dev](https://svelte.dev/llms.txt)
 - [svelte.jp](https://svelte.jp/llms.txt)
