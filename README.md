@@ -487,6 +487,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [maplebridge.io](https://maplebridge.io/llms.txt)
 - [manifest.ly (full)](https://manifest.ly/llms-full.txt)
 - [manifest.ly](https://manifest.ly/llms.txt)
+- [maplebridge.io](https://maplebridge.io/llms.txt)
 - [martijnvanderdoes.com](https://martijnvanderdoes.com/llms.txt)
 - [mastra.ai (full)](https://mastra.ai/llms-full.txt)
 - [mastra.ai](https://mastra.ai/llms.txt)
