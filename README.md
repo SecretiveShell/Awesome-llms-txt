@@ -5,6 +5,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [abonnement-iptv-france.fr](https://abonnement-iptv-france.fr/llms.txt)
 - [absoluteinternship.com](https://absoluteinternship.com/llms.txt)
 - [adsbravo.com](https://adsbravo.com/llms.txt)
+- [agentready.site](https://agentready.site/llms.txt)
 - [ai-interviewer.micro1.ai](https://ai-interviewer.micro1.ai/llms.txt)
 - [akademicevre.com](https://akademicevre.com/llms.txt)
 - [alexop.dev](https://alexop.dev/llms.txt)
