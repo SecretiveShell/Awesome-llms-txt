@@ -419,6 +419,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [erdaltoprak.com](https://erdaltoprak.com/llms.txt)
 - [faq.karrier.one](https://faq.karrier.one/llms.txt)
 - [fast-agent.ai](https://fast-agent.ai/llms.txt)
+- [fastcrw.com](https://fastcrw.com/llms.txt)
 - [findmine.com](https://findmine.com/llms.txt)
 - [flatfile.com (full)](https://flatfile.com/docs/llms-full.txt)
 - [flatfile.com](https://flatfile.com/docs/llms.txt)
