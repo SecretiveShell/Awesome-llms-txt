@@ -732,6 +732,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [www.zycus.com](https://www.zycus.com/llms.txt)
 - [wxt.dev](https://wxt.dev/knowledge/docs.txt)
 - [zbrain.ai](https://zbrain.ai/llms.txt)
+- [AI Fruit](https://aifruit.app/llms.txt)
 
 ## Directories
 
