@@ -430,6 +430,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [github.com](https://github.com/SecretiveShell/MCP-llms-txt)
 - [glaforge.dev (full)](https://glaforge.dev/llms-full.txt)
 - [gleam.so](https://gleam.so/llms.txt)
+- [global-chat.io (full)](https://global-chat.io/llms-full.txt)
+- [global-chat.io](https://global-chat.io/llms.txt)
 - [gokcetransfer.com](https://gokcetransfer.com/llms.txt)
 - [gr-docs.aporia.com](https://gr-docs.aporia.com/llms.txt)
 - [handbook.exemplar.dev (full)](https://handbook.exemplar.dev/llms-full.txt)
