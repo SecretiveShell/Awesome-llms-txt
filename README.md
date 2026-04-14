@@ -513,6 +513,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [nexech.com](https://nexech.com/llms.txt)
 - [norwegian4x4.com](https://norwegian4x4.com/llms.txt)
 - [novilabs.com](https://novilabs.com/llms.txt)
+- [nothumansearch.ai](https://nothumansearch.ai/llms.txt)
+- [nothumansearch.ai (full)](https://nothumansearch.ai/llms-full.txt)
 - [onagents.org](https://onagents.org/llms.txt)
 - [onevcat.com](https://onevcat.com/llms.txt)
 - [open.longportapp.com](https://open.longportapp.com/llms.txt)
