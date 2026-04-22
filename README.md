@@ -587,6 +587,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [turbo.build](https://turbo.build/llms.txt)
 - [twittershots.com (full)](https://twittershots.com/llms-full.txt)
 - [unhead.unjs.io](https://unhead.unjs.io/llms.txt)
+- [universalcommerceprotocol.blog (EN)](https://universalcommerceprotocol.blog/llms-en.txt)
+- [universalcommerceprotocol.blog](https://universalcommerceprotocol.blog/llms.txt)
 - [upstash.com (full)](https://upstash.com/docs/llms-full.txt)
 - [upstash.com](https://upstash.com/docs/llms.txt)
 - [use-fireproof.com (full)](https://use-fireproof.com/llms-full.txt)
