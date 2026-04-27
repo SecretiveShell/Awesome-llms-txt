@@ -51,6 +51,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [daisyui.tailwind.org.cn](https://daisyui.tailwind.org.cn/llms.txt)
 - [datacamp.com](https://datacamp.com/llms.txt)
 - [datadrivenmarketer.me](https://datadrivenmarketer.me/llms.txt)
+- [dejanmarkovic.com (full)](https://dejanmarkovic.com/llms-full.txt)
+- [dejanmarkovic.com](https://dejanmarkovic.com/llms.txt)
 - [dekomaer.com](https://dekomaer.com/llms.txt)
 - [dekomaer.com](https://dekomaer.com/llms.txt)
 - [dekomaer.com](https://dekomaer.com/llms.txt)
