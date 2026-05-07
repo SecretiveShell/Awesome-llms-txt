@@ -7,6 +7,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [adsbravo.com](https://adsbravo.com/llms.txt)
 - [ai-interviewer.micro1.ai](https://ai-interviewer.micro1.ai/llms.txt)
 - [akademicevre.com](https://akademicevre.com/llms.txt)
+- [alexmwr.co.uk (full)](https://alexmwr.co.uk/llms-full.txt)
+- [alexmwr.co.uk](https://alexmwr.co.uk/llms.txt)
 - [alexop.dev](https://alexop.dev/llms.txt)
 - [allmenus.ma](https://allmenus.ma/llms.txt)
 - [alphix.com](https://alphix.com/llms.txt)
