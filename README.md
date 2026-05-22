@@ -408,6 +408,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [docs.zoko.io](https://docs.zoko.io/llms.txt)
 - [docspring.com](https://docspring.com/llms.txt)
 - [documentation.blitzllama.com](https://documentation.blitzllama.com/llms.txt)
+- [dondego.es](https://dondego.es/llms.txt)
 - [dotenvx.com (full)](https://dotenvx.com/llms-full.txt)
 - [dotenvx.com](https://dotenvx.com/llms.txt)
 - [dualmark.dev](https://dualmark.dev/llms.txt)
