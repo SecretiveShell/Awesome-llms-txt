@@ -10,6 +10,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [alexop.dev](https://alexop.dev/llms.txt)
 - [allmenus.ma](https://allmenus.ma/llms.txt)
 - [alphix.com](https://alphix.com/llms.txt)
+- [anp2.com (full)](https://anp2.com/llms-full.txt)
+- [anp2.com](https://anp2.com/llms.txt)
 - [api-docs.devhub.com](https://api-docs.devhub.com/llms.txt)
 - [apify.com](https://apify.com/llms.txt)
 - [appzung.com](https://appzung.com/llms.txt)
