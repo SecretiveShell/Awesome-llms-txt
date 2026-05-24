@@ -435,6 +435,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [gr-docs.aporia.com](https://gr-docs.aporia.com/llms.txt)
 - [handbook.exemplar.dev (full)](https://handbook.exemplar.dev/llms-full.txt)
 - [handbook.exemplar.dev](https://handbook.exemplar.dev/llms.txt)
+- [happyaging.com (full)](https://happyaging.com/pages/ai-index)
+- [happyaging.com](https://happyaging.com/llms.txt)
 - [herd.garden (full)](https://herd.garden/llms-full.txt)
 - [herd.garden](https://herd.garden/llms.txt)
 - [himalayas.app](https://himalayas.app/llms.txt)
