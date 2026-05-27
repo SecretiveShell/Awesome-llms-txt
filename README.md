@@ -590,6 +590,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [use-fireproof.com (full)](https://use-fireproof.com/llms-full.txt)
 - [use-fireproof.com](https://use-fireproof.com/llms.txt)
 - [useagents.io](https://useagents.io/llms.txt)
+- [ultiplace.com (full)](https://www.ultiplace.com/llms-full.txt)
+- [ultiplace.com](https://www.ultiplace.com/llms.txt)
 - [uxpatterns.dev (full)](https://uxpatterns.dev/en/llms-full.txt)
 - [uxpatterns.dev](https://uxpatterns.dev/en/llms.txt)
 - [valdhealth.com](https://valdhealth.com/llms.txt)
