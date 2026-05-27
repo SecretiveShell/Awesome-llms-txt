@@ -1,16 +1,9 @@
-add [site] to the llms txt list
+Add [site] to the llms.txt list
 
-Run this after editing README.md:
+I can confirm that:
 
-```sh
-python scripts/normalize_lists.py
-```
+- [ ] I added the new link or links to `README.md`
+- [ ] Each URL points to `llms.txt` or `llms-full.txt`
+- [ ] Each URL is publicly reachable
 
-I can confirm that I have added the appropriate links to
-- [ ] readme.md
-- [ ] json/llms-full.json
-- [ ] llms-txt.json
-- [ ] urls.json
-
-I understand that my PR will not be accepted if I only edit the readme file and do not add the link to the json files
-- [ ] yes
+The JSON files are generated automatically after merge.
