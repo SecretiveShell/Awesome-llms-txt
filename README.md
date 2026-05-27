@@ -15,6 +15,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [api-docs.devhub.com](https://api-docs.devhub.com/llms.txt)
 - [apify.com](https://apify.com/llms.txt)
 - [appzung.com](https://appzung.com/llms.txt)
+- [arcadelab.ai](https://arcadelab.ai/llms.txt)
 - [ast-grep.github.io (full)](https://ast-grep.github.io/llms-full.txt)
 - [ast-grep.github.io](https://ast-grep.github.io/llms.txt)
 - [aws-legalgroup.com](https://aws-legalgroup.com/llms.txt)
