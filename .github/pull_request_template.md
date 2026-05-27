@@ -1,10 +1,9 @@
-add [site] to the llms txt list
+Add [site] to the llms.txt list
 
-I can confirm that I have added the appropriate links to
-- [ ] readme.md
-- [ ] json/llms-full.json
-- [ ] llms-txt.json
-- [ ] urls.json
+I can confirm that:
 
-I understand that my PR will not be accepted if I only edit the readme file and do not add the link to the json files
-- [ ] yes
+- [ ] I added the new link or links to `README.md`
+- [ ] Each URL points to `llms.txt` or `llms-full.txt`
+- [ ] Each URL is publicly reachable
+
+The JSON files are generated automatically after merge.
