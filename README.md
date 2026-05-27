@@ -52,6 +52,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [convex.dev](https://convex.dev/llms.txt)
 - [cookbook_ao.g8way.io](https://cookbook_ao.g8way.io/llms.txt)
 - [cv.ryoppippi.com (full)](https://cv.ryoppippi.com/llms-full.txt)
+- [dailygoal.fit (full)](https://www.dailygoal.fit/llms-full.txt)
+- [dailygoal.fit](https://www.dailygoal.fit/llms.txt)
 - [daisyui.com](https://daisyui.com/llms.txt)
 - [daisyui.tailwind.org.cn](https://daisyui.tailwind.org.cn/llms.txt)
 - [datacamp.com](https://datacamp.com/llms.txt)
