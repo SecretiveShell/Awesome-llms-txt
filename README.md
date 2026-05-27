@@ -548,6 +548,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [raw.githubusercontent.com (full)](https://raw.githubusercontent.com/raycast/extensions/refs/heads/gh-pages/llms-full.txt)
 - [razor-press.web-templates.io](https://razor-press.web-templates.io/llms.txt)
 - [remult.dev](https://remult.dev/llms.txt)
+- [renobrief.com](https://renobrief.com/llms.txt)
 - [resend.com (full)](https://resend.com/docs/llms-full.txt)
 - [resend.com](https://resend.com/docs/llms.txt)
 - [rubric.com](https://rubric.com/llms.txt)
@@ -739,7 +740,6 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [www.zycus.com](https://www.zycus.com/llms.txt)
 - [wxt.dev](https://wxt.dev/knowledge/docs.txt)
 - [zbrain.ai](https://zbrain.ai/llms.txt)
-- [RenoBrief](https://renobrief.com/llms.txt)
 
 ## Directories
 
