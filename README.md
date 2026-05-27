@@ -8,6 +8,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [agentgrade.com (full)](https://agentgrade.com/llms-full.txt)
 - [agentgrade.com](https://agentgrade.com/llms.txt)
 - [ai-interviewer.micro1.ai](https://ai-interviewer.micro1.ai/llms.txt)
+- [aifruit.app](https://aifruit.app/llms.txt)
 - [akademicevre.com](https://akademicevre.com/llms.txt)
 - [alexop.dev](https://alexop.dev/llms.txt)
 - [allmenus.ma](https://allmenus.ma/llms.txt)
@@ -742,7 +743,6 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [www.zycus.com](https://www.zycus.com/llms.txt)
 - [wxt.dev](https://wxt.dev/knowledge/docs.txt)
 - [zbrain.ai](https://zbrain.ai/llms.txt)
-- [AI Fruit](https://aifruit.app/llms.txt)
 
 ## Directories
 
