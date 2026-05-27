@@ -552,6 +552,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [papergraderpro.com](https://papergraderpro.com/llms.txt)
 - [plainframework.com](https://plainframework.com/llms.txt)
 - [plasticol.es](https://plasticol.es/llms.txt)
+- [pokerreborn.com (full)](https://pokerreborn.com/llms-full.txt)
+- [pokerreborn.com](https://pokerreborn.com/llms.txt)
 - [postfa.st (full)](https://postfa.st/llms-full.txt)
 - [postfa.st](https://postfa.st/llms.txt)
 - [prisma.io (full)](https://prisma.io/docs/llms-full.txt)
