@@ -579,6 +579,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [sourcegraph.com](https://sourcegraph.com/docs/llms.txt)
 - [starwind.dev (full)](https://starwind.dev/llms-full.txt)
 - [starwind.dev](https://starwind.dev/llms.txt)
+- [steelesolutions4u.com](https://steelesolutions4u.com/llms.txt)
 - [sterkanazed.cz](https://sterkanazed.cz/llms.txt)
 - [supabase.com](https://supabase.com/llms.txt)
 - [svelte.dev (full)](https://svelte.dev/llms-full.txt)
