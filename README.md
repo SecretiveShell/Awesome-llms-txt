@@ -2,12 +2,14 @@
 
 This list contains an index of llms.txt files hosted on various websites. Attach them to your llm with [MCP-llms-txt](https://github.com/SecretiveShell/MCP-llms-txt)
 
+- [8bitconcepts.com](https://8bitconcepts.com/llms.txt)
 - [abonnement-iptv-france.fr](https://abonnement-iptv-france.fr/llms.txt)
 - [absoluteinternship.com](https://absoluteinternship.com/llms.txt)
 - [adsbravo.com](https://adsbravo.com/llms.txt)
 - [agentgrade.com (full)](https://agentgrade.com/llms-full.txt)
 - [agentgrade.com](https://agentgrade.com/llms.txt)
 - [ai-interviewer.micro1.ai](https://ai-interviewer.micro1.ai/llms.txt)
+- [aidevboard.com](https://aidevboard.com/llms.txt)
 - [aifruit.app](https://aifruit.app/llms.txt)
 - [akademicevre.com](https://akademicevre.com/llms.txt)
 - [alexop.dev](https://alexop.dev/llms.txt)
@@ -531,6 +533,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [neuronup.com](https://neuronup.com/llms.txt)
 - [nexech.com](https://nexech.com/llms.txt)
 - [norwegian4x4.com](https://norwegian4x4.com/llms.txt)
+- [nothumansearch.ai (full)](https://nothumansearch.ai/llms-full.txt)
+- [nothumansearch.ai](https://nothumansearch.ai/llms.txt)
 - [novilabs.com](https://novilabs.com/llms.txt)
 - [nwaids.com](https://nwaids.com/llms.txt)
 - [nwapoolice.com](https://nwapoolice.com/llms.txt)
