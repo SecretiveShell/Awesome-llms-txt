@@ -2,17 +2,28 @@
 
 This list contains an index of llms.txt files hosted on various websites. Attach them to your llm with [MCP-llms-txt](https://github.com/SecretiveShell/MCP-llms-txt)
 
+- [8bitconcepts.com](https://8bitconcepts.com/llms.txt)
 - [abonnement-iptv-france.fr](https://abonnement-iptv-france.fr/llms.txt)
 - [absoluteinternship.com](https://absoluteinternship.com/llms.txt)
 - [adsbravo.com](https://adsbravo.com/llms.txt)
+- [agentgrade.com (full)](https://agentgrade.com/llms-full.txt)
+- [agentgrade.com](https://agentgrade.com/llms.txt)
+- [ai-first-scraper.onrender.com](https://ai-first-scraper.onrender.com/llms.txt)
+- [ai-first-search.onrender.com](https://ai-first-search.onrender.com/llms.txt)
 - [ai-interviewer.micro1.ai](https://ai-interviewer.micro1.ai/llms.txt)
+- [aidevboard.com](https://aidevboard.com/llms.txt)
+- [aifruit.app](https://aifruit.app/llms.txt)
 - [akademicevre.com](https://akademicevre.com/llms.txt)
 - [alexop.dev](https://alexop.dev/llms.txt)
-- [allmenus.ma](https://allmenus.ma/llms.txt)
 - [alphix.com](https://alphix.com/llms.txt)
 - [api-docs.devhub.com](https://api-docs.devhub.com/llms.txt)
 - [apify.com](https://apify.com/llms.txt)
 - [appzung.com](https://appzung.com/llms.txt)
+<<<<<<< HEAD
+=======
+- [arcadelab.ai](https://arcadelab.ai/llms.txt)
+- [ast-grep.github.io (full)](https://ast-grep.github.io/llms-full.txt)
+>>>>>>> upstream/master
 - [ast-grep.github.io](https://ast-grep.github.io/llms.txt)
 - [ast-grep.github.io (full)](https://ast-grep.github.io/llms-full.txt)
 - [aws-legalgroup.com](https://aws-legalgroup.com/llms.txt)
@@ -30,6 +41,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [blog.zithara.com](https://blog.zithara.com/llms.txt)
 - [boehs.org](https://boehs.org/llms.txt)
 - [booqable.com](https://booqable.com/llms.txt)
+- [brewpage.app (full)](https://brewpage.app/llms-full.txt)
+- [brewpage.app](https://brewpage.app/llms.txt)
 - [buckybodycenter.com](https://buckybodycenter.com/llms.txt)
 - [builtwith.com](https://builtwith.com/llms.txt)
 - [bun.sh](https://bun.sh/llms.txt)
@@ -39,6 +52,13 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [chakra-ui.com (full)](https://chakra-ui.com/llms-full.txt)
 - [charles-migaud.fr](https://charles-migaud.fr/llms.txt)
 - [cichpack.com](https://cichpack.com/llms.txt)
+<<<<<<< HEAD
+=======
+- [citability.ai (full)](https://citability.ai/llms-full.txt)
+- [citability.ai](https://citability.ai/llms.txt)
+- [cleverhack.com](https://cleverhack.com/llms.txt)
+- [cloud.needle.tools (full)](https://cloud.needle.tools/llms-full.txt)
+>>>>>>> upstream/master
 - [cloud.needle.tools](https://cloud.needle.tools/llms.txt)
 - [cloud.needle.tools (full)](https://cloud.needle.tools/llms-full.txt)
 - [cog.run](https://cog.run/llms.txt)
@@ -51,6 +71,11 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [daisyui.tailwind.org.cn](https://daisyui.tailwind.org.cn/llms.txt)
 - [datacamp.com](https://datacamp.com/llms.txt)
 - [datadrivenmarketer.me](https://datadrivenmarketer.me/llms.txt)
+<<<<<<< HEAD
+=======
+- [dejanmarkovic.com (full)](https://dejanmarkovic.com/llms-full.txt)
+- [dejanmarkovic.com](https://dejanmarkovic.com/llms.txt)
+>>>>>>> upstream/master
 - [dekomaer.com](https://dekomaer.com/llms.txt)
 - [demotime.elio.dev](https://demotime.elio.dev/llms.txt)
 - [designmodo.com](https://designmodo.com/llms.txt)
@@ -75,7 +100,6 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [directory.llmstxt.cloud](https://directory.llmstxt.cloud)
 - [docs-en.sinch.com](https://docs-en.sinch.com/llms.txt)
 - [docs.1millionbot.com](https://docs.1millionbot.com/llms.txt)
-- [docs.1rpc.io](https://docs.1rpc.io/llms.txt)
 - [docs.48.club](https://docs.48.club/llms.txt)
 - [docs.4everland.org](https://docs.4everland.org/llms.txt)
 - [docs.a2rev.com](https://docs.a2rev.com/llms.txt)
@@ -96,8 +120,11 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [docs.aftermath.finance](https://docs.aftermath.finance/llms.txt)
 - [docs.agent.ai](https://docs.agent.ai/llms.txt)
 - [docs.agentlayer.xyz](https://docs.agentlayer.xyz/llms.txt)
+<<<<<<< HEAD
 - [docs.agentql.com](https://docs.agentql.com/llms.txt)
 - [docs.agentql.com (full)](https://docs.agentql.com/llms-full.txt)
+=======
+>>>>>>> upstream/master
 - [docs.akool.com](https://docs.akool.com/llms.txt)
 - [docs.alphafi.xyz](https://docs.alphafi.xyz/llms.txt)
 - [docs.alphagate.io](https://docs.alphagate.io/llms.txt)
@@ -185,8 +212,11 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [docs.couchdrop.io](https://docs.couchdrop.io/llms.txt)
 - [docs.craft.co](https://docs.craft.co/llms.txt)
 - [docs.crewai.com](https://docs.crewai.com/llms.txt)
+<<<<<<< HEAD
 - [docs.crewai.com (full)](https://docs.crewai.com/llms-full.txt)
 - [docs.cryptlex.com](https://docs.cryptlex.com/llms.txt)
+=======
+>>>>>>> upstream/master
 - [docs.cryptoprocessing.com](https://docs.cryptoprocessing.com/llms.txt)
 - [docs.cursor.com](https://docs.cursor.com/llms.txt)
 - [docs.cursor.com (full)](https://docs.cursor.com/llms-full.txt)
@@ -196,7 +226,6 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [docs.datafold.com (full)](https://docs.datafold.com/llms-full.txt)
 - [docs.dataimpulse.com](https://docs.dataimpulse.com/llms.txt)
 - [docs.de.fi](https://docs.de.fi/llms.txt)
-- [docs.deco.cx](https://docs.deco.cx/llms.txt)
 - [docs.defisaver.com](https://docs.defisaver.com/llms.txt)
 - [docs.diadata.org](https://docs.diadata.org/llms.txt)
 - [docs.dns0.eu](https://docs.dns0.eu/llms.txt)
@@ -269,7 +298,6 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [docs.iproyal.com](https://docs.iproyal.com/llms.txt)
 - [docs.irev.com](https://docs.irev.com/llms.txt)
 - [docs.islandrouter.com](https://docs.islandrouter.com/llms.txt)
-- [docs.itemdb.com.br](https://docs.itemdb.com.br/llms.txt)
 - [docs.joinmassive.com](https://docs.joinmassive.com/llms.txt)
 - [docs.journify.io](https://docs.journify.io/llms.txt)
 - [docs.jsfiddle.net](https://docs.jsfiddle.net/llms.txt)
@@ -288,7 +316,6 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [docs.langwatch.ai](https://docs.langwatch.ai/llms.txt)
 - [docs.latch.io](https://docs.latch.io/llms.txt)
 - [docs.lavita.ai](https://docs.lavita.ai/llms.txt)
-- [docs.layeredge.io](https://docs.layeredge.io/llms.txt)
 - [docs.layouthub.com](https://docs.layouthub.com/llms.txt)
 - [docs.legendsoflearning.com](https://docs.legendsoflearning.com/llms.txt)
 - [docs.livespotting.com](https://docs.livespotting.com/llms.txt)
@@ -304,9 +331,12 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [docs.meshconnect.com](https://docs.meshconnect.com/llms.txt)
 - [docs.meshconnect.com (full)](https://docs.meshconnect.com/llms-full.txt)
 - [docs.methodfi.com](https://docs.methodfi.com/llms.txt)
+<<<<<<< HEAD
 - [docs.methodfi.com (full)](https://docs.methodfi.com/llms-full.txt)
 - [docs.micro1.ai](https://docs.micro1.ai/llms.txt)
 - [docs.moondream.ai](https://docs.moondream.ai/llms.txt)
+=======
+>>>>>>> upstream/master
 - [docs.netlify.com](https://docs.netlify.com/llms.txt)
 - [docs.onetrading.com](https://docs.onetrading.com/llms.txt)
 - [docs.openpipe.ai](https://docs.openpipe.ai/llms.txt)
@@ -374,7 +404,6 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [docs.venice.ai](https://docs.venice.ai/llms.txt)
 - [docs.ventrata.com](https://docs.ventrata.com/llms.txt)
 - [docs.verdn.com](https://docs.verdn.com/llms.txt)
-- [docs.vertexprotocol.com](https://docs.vertexprotocol.com/llms.txt)
 - [docs.videowise.com](https://docs.videowise.com/llms.txt)
 - [docs.vooi.io](https://docs.vooi.io/llms.txt)
 - [docs.vvs.finance](https://docs.vvs.finance/llms.txt)
@@ -409,14 +438,26 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [dotenvx.com (full)](https://dotenvx.com/llms-full.txt)
 - [dualmark.dev](https://dualmark.dev/llms.txt)
 - [dub.co](https://dub.co/docs/llms.txt)
+<<<<<<< HEAD
 - [dub.co (full)](https://dub.co/docs/llms-full.txt)
 - [duckdb.org](https://duckdb.org/duckdb-docs.md)
+=======
+- [elevenlabs.io (full)](https://elevenlabs.io/docs/llms-full.txt)
+>>>>>>> upstream/master
 - [elevenlabs.io](https://elevenlabs.io/docs/llms.txt)
 - [elevenlabs.io (full)](https://elevenlabs.io/docs/llms-full.txt)
 - [emailgic.com](https://emailgic.com/llms.txt)
 - [erdaltoprak.com](https://erdaltoprak.com/llms.txt)
+- [evacalendar.app (full)](https://evacalendar.app/llms-full.txt)
+- [evacalendar.app](https://evacalendar.app/llms.txt)
+- [examace.ca (full)](https://examace.ca/llms-full.txt)
+- [examace.ca](https://examace.ca/llms.txt)
 - [faq.karrier.one](https://faq.karrier.one/llms.txt)
+<<<<<<< HEAD
 - [fast-agent.ai](https://fast-agent.ai/llms.txt)
+=======
+- [fastcrw.com](https://fastcrw.com/llms.txt)
+>>>>>>> upstream/master
 - [feedthejoe.com](https://feedthejoe.com/llms.txt)
 - [findmine.com](https://findmine.com/llms.txt)
 - [flatfile.com](https://flatfile.com/docs/llms.txt)
@@ -428,14 +469,21 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [getlago.com (full)](https://getlago.com/docs/llms-full.txt)
 - [github.com](https://github.com/SecretiveShell/MCP-llms-txt)
 - [glaforge.dev (full)](https://glaforge.dev/llms-full.txt)
-- [gleam.so](https://gleam.so/llms.txt)
+- [global-chat.io (full)](https://global-chat.io/llms-full.txt)
+- [global-chat.io](https://global-chat.io/llms.txt)
 - [gokcetransfer.com](https://gokcetransfer.com/llms.txt)
 - [gr-docs.aporia.com](https://gr-docs.aporia.com/llms.txt)
 - [handbook.exemplar.dev](https://handbook.exemplar.dev/llms.txt)
+<<<<<<< HEAD
 - [handbook.exemplar.dev (full)](https://handbook.exemplar.dev/llms-full.txt)
 - [handledtax.com](https://handledtax.com/llms.txt)
 - [herd.garden](https://herd.garden/llms.txt)
 - [herd.garden (full)](https://herd.garden/llms-full.txt)
+=======
+- [handledtax.com](https://handledtax.com/llms.txt)
+- [herd.garden (full)](https://herd.garden/llms-full.txt)
+- [herd.garden](https://herd.garden/llms.txt)
+>>>>>>> upstream/master
 - [heritagehardwoodfloors.thatwebhostingguy.com](https://heritagehardwoodfloors.thatwebhostingguy.com/llms.txt)
 - [himalayas.app](https://himalayas.app/llms.txt)
 - [hola.org](https://hola.org/llms.txt)
@@ -447,9 +495,14 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [huggingface-projects-docs-llms-txt.hf.space](https://huggingface-projects-docs-llms-txt.hf.space/hub/llms.txt)
 - [iceberg.ma](https://iceberg.ma/llms.txt)
 - [infisical.com](https://infisical.com/docs/llms.txt)
+<<<<<<< HEAD
 - [infisical.com (full)](https://infisical.com/docs/llms-full.txt)
 - [inspira-ui.com](https://inspira-ui.com/llms.txt)
 - [inspira-ui.com (full)](https://inspira-ui.com/llms-full.txt)
+=======
+- [inter-car.fr](https://inter-car.fr/llms.txt)
+- [iqboatlifts.com (full)](https://iqboatlifts.com/llms-full.txt)
+>>>>>>> upstream/master
 - [iqboatlifts.com](https://iqboatlifts.com/llms.txt)
 - [iqboatlifts.com (full)](https://iqboatlifts.com/llms-full.txt)
 - [jazz.tools](https://jazz.tools/llms.txt)
@@ -457,9 +510,9 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [jimukiki.net](https://jimukiki.net/llms.txt)
 - [jord.in](https://jord.in/llms.txt)
 - [js.langchain.com](https://js.langchain.com/llms.txt)
-- [kanji-navi.com](https://kanji-navi.com/llms.txt)
 - [kitazawa.dev](https://kitazawa.dev/llms.txt)
-- [knmstudio.com](https://knmstudio.com/llms.txt)
+- [konstruction.ca (full)](https://konstruction.ca/llms-full.txt)
+- [konstruction.ca](https://konstruction.ca/llms.txt)
 - [kumo.productions](https://kumo.productions/llms.txt)
 - [langfuse.com](https://langfuse.com/llms.txt)
 - [liambx.com (full)](https://liambx.com/docs/llms-full.txt)
@@ -471,9 +524,14 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [liveblocks.io](https://liveblocks.io/llms.txt)
 - [liveblocks.io (full)](https://liveblocks.io/llms-full.txt)
 - [livecodes.io](https://livecodes.io/docs/llms.txt)
+<<<<<<< HEAD
 - [livecodes.io (full)](https://livecodes.io/docs/llms-full.txt)
 - [llm.rememberizer.ai](https://llm.rememberizer.ai/llms.txt)
 - [llm.rememberizer.ai (full)](https://llm.rememberizer.ai/llms-full.txt)
+=======
+- [llm.rememberizer.ai (full)](https://llm.rememberizer.ai/llms-full.txt)
+- [llm.skydeck.ai (full)](https://llm.skydeck.ai/llms-full.txt)
+>>>>>>> upstream/master
 - [llm.skydeck.ai](https://llm.skydeck.ai/llms.txt)
 - [llm.skydeck.ai (full)](https://llm.skydeck.ai/llms-full.txt)
 - [llms.txt hub](https://llmstxthub.com)
@@ -487,8 +545,13 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [lotsofcsvs.com](https://lotsofcsvs.com/llms.txt)
 - [lugg.com](https://lugg.com/llms.txt)
 - [makojs.dev](https://makojs.dev/llms.txt)
+<<<<<<< HEAD
 - [manifest.ly](https://manifest.ly/llms.txt)
 - [manifest.ly (full)](https://manifest.ly/llms-full.txt)
+=======
+- [manifest.ly (full)](https://manifest.ly/llms-full.txt)
+- [manifest.ly](https://manifest.ly/llms.txt)
+>>>>>>> upstream/master
 - [maplebridge.io](https://maplebridge.io/llms.txt)
 - [martijnvanderdoes.com](https://martijnvanderdoes.com/llms.txt)
 - [mastra.ai](https://mastra.ai/llms.txt)
@@ -515,6 +578,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [neuronup.com](https://neuronup.com/llms.txt)
 - [nexech.com](https://nexech.com/llms.txt)
 - [norwegian4x4.com](https://norwegian4x4.com/llms.txt)
+- [nothumansearch.ai (full)](https://nothumansearch.ai/llms-full.txt)
+- [nothumansearch.ai](https://nothumansearch.ai/llms.txt)
 - [novilabs.com](https://novilabs.com/llms.txt)
 - [nwaids.com](https://nwaids.com/llms.txt)
 - [nwapoolice.com](https://nwapoolice.com/llms.txt)
@@ -528,8 +593,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [orm.drizzle.team (full)](https://orm.drizzle.team/llms-full.txt)
 - [pandaci.com](https://pandaci.com/llms.txt)
 - [papergraderpro.com](https://papergraderpro.com/llms.txt)
-- [plainframework.com](https://plainframework.com/llms.txt)
 - [plasticol.es](https://plasticol.es/llms.txt)
+<<<<<<< HEAD
 - [postfa.st](https://postfa.st/llms.txt)
 - [postfa.st (full)](https://postfa.st/llms-full.txt)
 - [prisma.io](https://prisma.io/docs/llms.txt)
@@ -537,6 +602,16 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [prisma.io (full)](https://prisma.io/docs/llms-full.txt)
 - [prisma.io (full)](https://prisma.io/llms-full.txt)
 - [promptessor.com](https://promptessor.com/llms-full.txt)
+=======
+- [pokerreborn.com (full)](https://pokerreborn.com/llms-full.txt)
+- [pokerreborn.com](https://pokerreborn.com/llms.txt)
+- [postfa.st (full)](https://postfa.st/llms-full.txt)
+- [postfa.st](https://postfa.st/llms.txt)
+- [prisma.io (full)](https://prisma.io/docs/llms-full.txt)
+- [prisma.io (full)](https://prisma.io/llms-full.txt)
+- [prisma.io](https://prisma.io/docs/llms.txt)
+- [prisma.io](https://prisma.io/llms.txt)
+>>>>>>> upstream/master
 - [promptessor.com (full)](https://promptessor.com/llms-full.txt)
 - [python.langchain.com](https://python.langchain.com/llms.txt)
 - [rainbowkit.com](https://rainbowkit.com/llms.txt)
@@ -546,7 +621,12 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [raw.githubusercontent.com (full)](https://raw.githubusercontent.com/raycast/extensions/refs/heads/gh-pages/llms-full.txt)
 - [razor-press.web-templates.io](https://razor-press.web-templates.io/llms.txt)
 - [remult.dev](https://remult.dev/llms.txt)
+<<<<<<< HEAD
 - [remult.dev (full)](https://remult.dev/llms-full.txt)
+=======
+- [renobrief.com](https://renobrief.com/llms.txt)
+- [resend.com (full)](https://resend.com/docs/llms-full.txt)
+>>>>>>> upstream/master
 - [resend.com](https://resend.com/docs/llms.txt)
 - [resend.com (full)](https://resend.com/docs/llms-full.txt)
 - [rubric.com](https://rubric.com/llms.txt)
@@ -558,16 +638,24 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [semgrep.com (full)](https://semgrep.com/llms-full.txt)
 - [semgrep.dev](https://semgrep.dev/llms.txt)
 - [seolevante.com](https://seolevante.com/llms.txt)
+- [showmecleannwa.com](https://showmecleannwa.com/llms.txt)
 - [sigtech.com](https://sigtech.com/llms.txt)
 - [siteria.by](https://siteria.by/llms.txt)
 - [sitespeak.ai](https://sitespeak.ai/llms.txt)
 - [smartcar.com](https://smartcar.com/docs/llms.txt)
+<<<<<<< HEAD
 - [smartcar.com (full)](https://smartcar.com/docs/llms-full.txt)
 - [socialwayne.com](https://socialwayne.com/llms.txt)
+=======
+>>>>>>> upstream/master
 - [solt.app](https://solt.app/llms.txt)
 - [sourcegraph.com](https://sourcegraph.com/docs/llms.txt)
 - [starwind.dev](https://starwind.dev/llms.txt)
+<<<<<<< HEAD
 - [starwind.dev (full)](https://starwind.dev/llms-full.txt)
+=======
+- [steelesolutions4u.com](https://steelesolutions4u.com/llms.txt)
+>>>>>>> upstream/master
 - [sterkanazed.cz](https://sterkanazed.cz/llms.txt)
 - [supabase.com](https://supabase.com/llms.txt)
 - [svelte.dev](https://svelte.dev/llms.txt)
@@ -579,10 +667,21 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [telescope.co](https://telescope.co/llms.txt)
 - [thataiguy.org](https://thataiguy.org/llms.txt)
 - [thatdeveloperguy.com](https://thatdeveloperguy.com/llms.txt)
+<<<<<<< HEAD
 - [thatdevpro.com](https://thatdevpro.com/llms.txt)
 - [thatdevpro.com (full)](https://thatdevpro.com/llms-full.txt)
 - [thatwebhostingguy.com](https://thatwebhostingguy.com/llms.txt)
 - [thdu.dev](https://thdu.dev/llms.txt)
+=======
+- [thatdevpro.com (full)](https://thatdevpro.com/llms-full.txt)
+- [thatdevpro.com](https://thatdevpro.com/llms.txt)
+- [thatwebhostingguy.com](https://thatwebhostingguy.com/llms.txt)
+- [thdu.dev](https://thdu.dev/llms.txt)
+- [the-seo-autopilot.com](https://the-seo-autopilot.com/llms.txt)
+- [thedrop.gifts (full)](https://thedrop.gifts/llms-full.txt)
+- [thedrop.gifts](https://thedrop.gifts/llms.txt)
+- [theirstack.com (full)](https://theirstack.com/docs/llms-full.txt)
+>>>>>>> upstream/master
 - [theirstack.com](https://theirstack.com/docs/llms.txt)
 - [theirstack.com (full)](https://theirstack.com/docs/llms-full.txt)
 - [tiptap.dev](https://tiptap.dev/llms.txt)
@@ -596,22 +695,41 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [trigger.dev (full)](https://trigger.dev/docs/llms-full.txt)
 - [turbo.build](https://turbo.build/llms.txt)
 - [twittershots.com (full)](https://twittershots.com/llms-full.txt)
+<<<<<<< HEAD
 - [unhead.unjs.io](https://unhead.unjs.io/llms.txt)
+=======
+- [unlocksaas.com (full)](https://unlocksaas.com/llms-full.txt)
+- [unlocksaas.com](https://unlocksaas.com/llms.txt)
+- [upcgen.com (full)](https://upcgen.com/llms-full.txt)
+- [upcgen.com](https://upcgen.com/llms.txt)
+- [upstash.com (full)](https://upstash.com/docs/llms-full.txt)
+>>>>>>> upstream/master
 - [upstash.com](https://upstash.com/docs/llms.txt)
 - [upstash.com (full)](https://upstash.com/docs/llms-full.txt)
 - [use-fireproof.com](https://use-fireproof.com/llms.txt)
+<<<<<<< HEAD
 - [use-fireproof.com (full)](https://use-fireproof.com/llms-full.txt)
 - [useagents.io](https://useagents.io/llms.txt)
+=======
+- [uxpatterns.dev (full)](https://uxpatterns.dev/en/llms-full.txt)
+>>>>>>> upstream/master
 - [uxpatterns.dev](https://uxpatterns.dev/en/llms.txt)
 - [uxpatterns.dev (full)](https://uxpatterns.dev/en/llms-full.txt)
 - [valdhealth.com](https://valdhealth.com/llms.txt)
+- [vertoai.it (full)](https://vertoai.it/llms-full.txt)
+- [vertoai.it](https://vertoai.it/llms.txt)
 - [vidovi.ch](https://vidovi.ch/llms.txt)
 - [viem.sh](https://viem.sh/llms.txt)
+<<<<<<< HEAD
 - [viem.sh (full)](https://viem.sh/llms-full.txt)
 - [visioforge.com](https://www.visioforge.com/llms-full.txt)
 - [vue-macros.dev](https://vue-macros.dev/llms.txt)
 - [vue-macros.dev (full)](https://vue-macros.dev/llms-full.txt)
 - [wandler.ai](https://wandler.ai/llms.txt)
+=======
+- [vue-macros.dev (full)](https://vue-macros.dev/llms-full.txt)
+- [vue-macros.dev](https://vue-macros.dev/llms.txt)
+>>>>>>> upstream/master
 - [we-in-style.com](https://we-in-style.com/llms.txt)
 - [web3.career](https://web3.career/llms.txt)
 - [webmemo.ch](https://webmemo.ch/llms.txt)
@@ -621,8 +739,11 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [www.activepieces.com](https://www.activepieces.com/docs/llms.txt)
 - [www.activepieces.com (full)](https://www.activepieces.com/docs/llms-full.txt)
 - [www.aerospacedomain.com](https://www.aerospacedomain.com/llms.txt)
+<<<<<<< HEAD
 - [www.agentdomain.xyz](https://www.agentdomain.xyz/llms.txt)
 - [www.agentdomain.xyz (full)](https://www.agentdomain.xyz/llms-full.txt)
+=======
+>>>>>>> upstream/master
 - [www.aiscribbles.com](https://www.aiscribbles.com/llms.txt)
 - [www.answer.ai](https://www.answer.ai/llms.txt)
 - [www.apibara.com](https://www.apibara.com/llms.txt)
@@ -641,6 +762,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [www.convex.dev](https://www.convex.dev/llms.txt)
 - [www.cosmicjs.com](https://www.cosmicjs.com/docs/llms.txt)
 - [www.creativehandbook.com](https://www.creativehandbook.com/llms.txt)
+- [www.dailygoal.fit (full)](https://www.dailygoal.fit/llms-full.txt)
+- [www.dailygoal.fit](https://www.dailygoal.fit/llms.txt)
 - [www.datacamp.com](https://www.datacamp.com/llms.txt)
 - [www.deployhq.com](https://www.deployhq.com/llms.txt)
 - [www.devart.com](https://www.devart.com/llms.txt)
@@ -650,24 +773,25 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [www.drbucky.com](https://www.drbucky.com/llms.txt)
 - [www.eastagile.com](https://www.eastagile.com/llms.txt)
 - [www.electromechanicalsnow.com](https://www.electromechanicalsnow.com/llms.txt)
-- [www.ellisphere.com](https://www.ellisphere.com/llms.txt)
 - [www.emergentaviation.com](https://www.emergentaviation.com/llms.txt)
 - [www.erveysa.com](https://www.erveysa.com/llms.txt)
 - [www.fagaf.com](https://www.fagaf.com/llms.txt)
-- [www.finsago.com](https://www.finsago.com/llms.txt)
 - [www.gilesthomas.com](https://www.gilesthomas.com/llms.txt)
 - [www.glideapps.com](https://www.glideapps.com/llms.txt)
 - [www.gradio.app](https://www.gradio.app/llms.txt)
 - [www.helicone.ai](https://www.helicone.ai/llms.txt)
 - [www.industrial-central.com](https://www.industrial-central.com/llms.txt)
 - [www.insightchoices.com](https://www.insightchoices.com/llms.txt)
-- [www.lambdatest.com](https://www.lambdatest.com/llms.txt)
 - [www.launchfa.st](https://www.launchfa.st/llms.txt)
 - [www.liblab.com](https://www.liblab.com/llms.txt)
 - [www.listennotes.com](https://www.listennotes.com/llms.txt)
 - [www.manifest.ly](https://www.manifest.ly/llms.txt)
 - [www.mcginniscommawill.com](https://www.mcginniscommawill.com/llms.txt)
+<<<<<<< HEAD
 - [www.mealbymeal.com](https://www.mealbymeal.com/llms.txt)
+=======
+- [www.meilisearch.com (full)](https://www.meilisearch.com/llms-full.txt)
+>>>>>>> upstream/master
 - [www.meilisearch.com](https://www.meilisearch.com/llms.txt)
 - [www.meilisearch.com (full)](https://www.meilisearch.com/llms-full.txt)
 - [www.metabarwise.com](https://www.metabarwise.com/llms.txt)
@@ -685,24 +809,26 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [www.popsmash.com (full)](https://www.popsmash.com/llms-full.txt)
 - [www.positrixpower.com](https://www.positrixpower.com/llms.txt)
 - [www.proevaluationsystem.com](https://www.proevaluationsystem.com/llms.txt)
-- [www.promomasters.at](https://www.promomasters.at/llms.txt)
 - [www.pulsemcp.com](https://www.pulsemcp.com/llms.txt)
 - [www.purav.co](https://www.purav.co/llms.txt)
 - [www.rainbowkit.com](https://www.rainbowkit.com/llms.txt)
 - [www.rainbowkit.com (full)](https://www.rainbowkit.com/llms-full.txt)
 - [www.ranksper.com](https://www.ranksper.com/llms.txt)
-- [www.raulabad.com](https://www.raulabad.com/llms.txt)
 - [www.redfreaks.gr](https://www.redfreaks.gr/llms.txt)
 - [www.remotion.dev](https://www.remotion.dev/llms.txt)
 - [www.ripplesfromthewell.org](https://www.ripplesfromthewell.org/llms.txt)
-- [www.roc-lang.org](https://www.roc-lang.org/llms.txt)
-- [www.runroom.com](https://www.runroom.com/llms.txt)
 - [www.sarhaangulati.com](https://www.sarhaangulati.com/llms.txt)
 - [www.sedigital.es](https://www.sedigital.es/llms.txt)
 - [www.seokaos.com](https://www.seokaos.com/llms.txt)
+<<<<<<< HEAD
 - [www.sgkb.ch](https://www.sgkb.ch/llms.txt)
 - [www.sherlockdomains.com](https://www.sherlockdomains.com/llms.txt)
 - [www.sherlockdomains.com (full)](https://www.sherlockdomains.com/llms-full.txt)
+=======
+- [www.sherlockdomains.com (full)](https://www.sherlockdomains.com/llms-full.txt)
+- [www.sherlockdomains.com](https://www.sherlockdomains.com/llms.txt)
+- [www.sketchto.com](https://www.sketchto.com/llms.txt)
+>>>>>>> upstream/master
 - [www.sky-follower-bridge.dev](https://www.sky-follower-bridge.dev/llms.txt)
 - [www.speakeasy.com](https://www.speakeasy.com/llms.txt)
 - [www.stackedindustrials.com](https://www.stackedindustrials.com/llms.txt)
@@ -711,6 +837,10 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [www.superskills.co.uk](https://www.superskills.co.uk/llms.txt)
 - [www.tasarimimarlik.com.tr](https://www.tasarimimarlik.com.tr/llms.txt)
 - [www.tatildenince.com](https://www.tatildenince.com/llms.txt)
+<<<<<<< HEAD
+=======
+- [www.thatdevpro.com](https://www.thatdevpro.com/llms.txt)
+>>>>>>> upstream/master
 - [www.thecrawltool.com](https://www.thecrawltool.com/llms.txt)
 - [www.thecrawltool.com (full)](https://www.thecrawltool.com/llms-full.txt)
 - [www.tinybird.co](https://www.tinybird.co/docs/llms.txt)
@@ -721,15 +851,19 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [www.trailofbits.com (full)](https://www.trailofbits.com/llms-full.txt)
 - [www.tryprofound.com](https://www.tryprofound.com/llms.txt)
 - [www.tuttosullegalline.it](https://www.tuttosullegalline.it/llms.txt)
+- [www.ultiplace.com (full)](https://www.ultiplace.com/llms-full.txt)
+- [www.ultiplace.com](https://www.ultiplace.com/llms.txt)
 - [www.unistyl.es](https://www.unistyl.es/llms.txt)
 - [www.unkey.com](https://www.unkey.com/docs/llms.txt)
 - [www.usemultiplier.com](https://www.usemultiplier.com/llms.txt)
 - [www.vald.com](https://www.vald.com/llms.txt)
+- [www.vibebot.gg (full)](https://www.vibebot.gg/llms-full.txt)
+- [www.vibebot.gg](https://www.vibebot.gg/llms.txt)
+- [www.visioforge.com (full)](https://www.visioforge.com/llms-full.txt)
 - [www.webpro.in](https://www.webpro.in/llms.txt)
 - [www.websitellm.com](https://www.websitellm.com/llms.txt)
 - [www.wedoitmarketing.nl](https://www.wedoitmarketing.nl/llms.txt)
 - [www.wellnessforaustin.com](https://www.wellnessforaustin.com/llms.txt)
-- [www.wheelhousedmg.com](https://www.wheelhousedmg.com/llms.txt)
 - [www.xfunnel.ai](https://www.xfunnel.ai/llms.txt)
 - [www.youthquake.it](https://www.youthquake.it/llms.txt)
 - [www.zenml.io](https://www.zenml.io/llms.txt)
