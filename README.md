@@ -583,6 +583,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [telescope.co](https://telescope.co/llms.txt)
 - [thdu.dev](https://thdu.dev/llms.txt)
 - [the-seo-autopilot.com](https://the-seo-autopilot.com/llms.txt)
+- [thedrop.gifts (full)](https://thedrop.gifts/llms-full.txt)
+- [thedrop.gifts](https://thedrop.gifts/llms.txt)
 - [theirstack.com (full)](https://theirstack.com/docs/llms-full.txt)
 - [theirstack.com](https://theirstack.com/docs/llms.txt)
 - [tiptap.dev](https://tiptap.dev/llms.txt)
