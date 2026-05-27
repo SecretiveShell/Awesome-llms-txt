@@ -1,5 +1,11 @@
 add [site] to the llms txt list
 
+Run this after editing README.md:
+
+```sh
+python scripts/normalize_lists.py
+```
+
 I can confirm that I have added the appropriate links to
 - [ ] readme.md
 - [ ] json/llms-full.json
