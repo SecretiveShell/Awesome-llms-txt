@@ -483,6 +483,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [llmstxtmanager.com](https://llmstxtmanager.com/llms.txt)
 - [lmstudio.ai (full)](https://lmstudio.ai/llms-full.txt)
 - [lmstudio.ai](https://lmstudio.ai/llms.txt)
+- [longevityworldcup.com (full)](https://longevityworldcup.com/llms-full.txt)
+- [longevityworldcup.com](https://longevityworldcup.com/llms.txt)
 - [loops.so (full)](https://loops.so/docs/llms-full.txt)
 - [loops.so](https://loops.so/docs/llms.txt)
 - [lotsofcsvs.com](https://lotsofcsvs.com/llms.txt)
