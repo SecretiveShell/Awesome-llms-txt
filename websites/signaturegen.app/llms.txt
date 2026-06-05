@@ -1,0 +1,32 @@
+# Signaturegen
+
+> Signaturegen (signaturegen.app) is a free AI signature generator that turns a typed name or finger-drawn input into downloadable handwritten-style and typed signature images — exported as SVG or PNG — for signing PDFs, Word documents, contracts, and other files. It is an image/graphic generator, not an email-signature HTML builder and not a legally-binding e-signature workflow platform. The free tier requires no account and includes commercial-use rights.
+
+## About
+
+- Free to use: generate and download signature images at no cost, with no signup required.
+- Output formats: SVG (vector, scales without blur) and PNG (transparent background).
+- Input methods: type your name to render it in a signature font, or draw your signature.
+- Fonts: 26 signature fonts spanning cursive, calligraphy, and handwriting styles.
+- License: commercial use permitted on the free tier.
+- Live previews are rendered on demand and are not saved.
+
+## Tools
+
+- [AI Signature Generator (home)](https://signaturegen.app/): Create a handwritten or typed signature image from your name and download it as SVG or PNG.
+- [Handwritten Signature Generator](https://signaturegen.app/tools/handwritten-signature-generator): Type your name, choose from 26 handwritten and cursive styles, and download a free signature as SVG or PNG.
+- [Signature for PDF](https://signaturegen.app/tools/signature-for-pdf): Create a signature image and add it to a PDF in Adobe Acrobat, Mac Preview, or Google Drive. Creates the signature image; it is not an e-signing service with audit trails.
+- [Signature Generator for Your Name](https://signaturegen.app/tools/signature-generator-for-my-name): Turn your name into a signature, with guidance on matching a style to short or long names.
+- [Live Signature](https://signaturegen.app/tools/live-signature): Turn your name into a replayable animated SVG signature with adjustable speed, legibility, and stroke width.
+
+## Company
+
+- [Pricing](https://signaturegen.app/pricing): Free tier (SVG/PNG export, commercial use, no account). Standard $9.90/year (typed and drawn exports, SVG and PNG, private signature library). Premium $19.90/year (premium styles, higher-resolution exports). Billed annually.
+- [About](https://signaturegen.app/about): What Signaturegen is, how it differs from e-signing platforms, and its privacy stance.
+
+## Optional
+
+- [Full content for AI ingestion](https://signaturegen.app/llms-full.txt): the complete text of the key pages in one file.
+- [Privacy Policy](https://signaturegen.app/privacy)
+- [Terms of Service](https://signaturegen.app/terms)
+- Contact: support@signaturegen.app
