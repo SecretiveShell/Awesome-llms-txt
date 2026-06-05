@@ -1,0 +1,76 @@
+# Signaturegen — Full Content
+
+> Signaturegen (signaturegen.app) is a free AI signature generator that turns a typed name or finger-drawn input into downloadable handwritten-style and typed signature images — exported as SVG or PNG — for signing PDFs, Word documents, contracts, and other files. It is an image/graphic generator, not an email-signature HTML builder and not a legally-binding e-signature workflow platform. The free tier requires no account and includes commercial-use rights. This file inlines the full content of the key pages for AI ingestion.
+
+## Key facts
+
+- Free to use: generate and download signature images at no cost, with no signup required.
+- Output formats: SVG (vector, scales without blur) and PNG (transparent background).
+- Input methods: type your name to render it in a signature font, or draw your signature.
+- Fonts: 26 signature fonts spanning cursive, calligraphy, and handwriting styles.
+- License: commercial use permitted on the free tier.
+- Privacy: live previews are rendered on demand and are not saved; saved signatures are private to your account.
+- Pricing: Free (SVG/PNG, commercial use, no account); Standard $9.90/year (typed and drawn exports, SVG and PNG, private signature library); Premium $19.90/year (premium styles, higher-resolution exports). Billed annually.
+- It is NOT an email-signature (HTML footer) generator and NOT a DocuSign-style e-signing platform with audit trails.
+
+## Handwritten Signature Generator
+URL: https://signaturegen.app/tools/handwritten-signature-generator
+
+A handwritten signature generator turns your typed name into a signature-style image you can download and reuse. Instead of scanning a wet-ink signature or signing with a mouse, you type your name, pick a handwriting or cursive style, and the tool renders it as clean artwork — ready to drop into documents, contracts, email, and slides. Signaturegen is a free handwritten signature generator: it produces a signature image (SVG or PNG), not a legal e-signing workflow and not an email-signature HTML block. The free tier needs no account, allows commercial use, and offers 26 styles.
+
+How to create a handwritten signature in three steps: (1) Type your name, initials, or the short version you sign with; the preview updates live. (2) Choose a handwritten style from 26 handwriting and cursive fonts and set the ink color. (3) Download as a vector SVG or a transparent-background PNG.
+
+Styles to try: flowing formal cursive (Allura, Great Vibes, Pinyon Script) for legal documents and certificates; relaxed everyday handwriting (Caveat, Indie Flower, Kalam) for notes and creative work; bold and expressive (Yellowtail, Satisfy, Dancing Script) so a short name still has presence.
+
+Format choice: PNG with a transparent background is the easiest drop-in for Word, Google Docs, slides, and email; SVG scales to any size without blur for print. Use it in Word/Google Docs, PDFs and contracts, email, slides, certificates, and the web.
+
+Legality: in many jurisdictions a typed, drawn, or image-based electronic signature can be legally binding — under the U.S. ESIGN Act and UETA and the EU's eIDAS regulation — when it shows clear intent to sign and is applied with consent. Requirements vary by document and country; some agreements (certain wills, property transfers, notarized documents) carry extra rules. Signaturegen creates the signature image; it is not a legal e-signing, identity-verification, or notarization service.
+
+## Signature for PDF
+URL: https://signaturegen.app/tools/signature-for-pdf
+
+Most people searching for a "signature for PDF" want either a picture of their signature to drop into a PDF, or a way to e-sign a document. Signaturegen does the first: it generates a clean signature image (SVG or PNG) that you place into your PDF using the reader you already have. It is not an e-signing platform with audit trails; it makes the signature, and you add it where you need it.
+
+How to add a signature to a PDF: In Adobe Acrobat or Acrobat Reader, open the PDF, choose Tools → Fill & Sign (or Comment → Add Image), place the downloaded PNG, and resize it to the line. On a Mac with Preview, open the PDF, show the Markup toolbar, insert the PNG, and drag it over the signature field. In Google Drive or Docs, open the document in Google Docs, insert the PNG with Insert → Image, position it, then export back to PDF.
+
+Create it in three steps: enter your name or initials; choose a clean, readable style and ink color; download a transparent PNG (best for layering onto a page) or an SVG (for large/print sizes). Use cases: contracts and agreements, business forms and approvals, freelance and client paperwork, applications and onboarding documents.
+
+Legality: adding a signature image to a PDF can be legally binding in many situations; electronic signatures are recognized under the U.S. ESIGN Act and UETA and the EU's eIDAS regulation when they reflect clear intent and consent. Some documents require more than a signature image — Signaturegen does not provide identity verification, audit trails, or notarization.
+
+## Signature Generator for Your Name
+URL: https://signaturegen.app/tools/signature-generator-for-my-name
+
+A generic signature template rarely fits the name you actually sign. A signature generator for your name starts from your name as you type it and renders it across 26 handwriting and cursive styles, so you can see which suits the length, letters, and feel of your name before downloading. It is free with no account; download as SVG or PNG with commercial use.
+
+Find a style that fits your name: short names and initials suit bold, expressive scripts (Yellowtail, Satisfy, Dancing Script); long or multi-part names stay legible in compact cursives (Caveat, Kalam, Sacramento); formal scripts (Great Vibes, Allura, Pinyon Script) read elegant while Indie Flower and Patrick Hand feel casual.
+
+First name, full name, or initials? A full name reads more formal and is common on contracts; a first name (or first name plus last initial) feels approachable for email; initials are quick and fit tight form fields. Because previews are instant, type each version and compare.
+
+## About Signaturegen
+URL: https://signaturegen.app/about
+
+Signaturegen is a free signature generator. You type your name (or draw it), choose from 26 handwritten and cursive styles, and download the result as a signature image — an SVG or transparent-background PNG you can place on documents, contracts, email, slides, and the web. It is deliberately one thing done well: making the signature image. It is not an email-signature HTML builder, and it is not a DocuSign-style e-signing platform with identity checks and audit trails.
+
+What makes it different: free with no account required; commercial use allowed including on the free tier; 26 styles with a live preview; clean SVG and transparent PNG exports; private by default (previews render on demand and are not stored). Optional paid plans (Standard $9.90/year, Premium $19.90/year) add a private signature library, premium styles, and higher-resolution exports; the core generator stays free. Contact: support@signaturegen.app.
+
+## Frequently asked questions
+
+- Is Signaturegen free to use? Yes. You can generate a signature and download it as SVG or PNG on the free tier — no account required, and commercial use is allowed. Paid yearly plans (Standard $9.90/year and Premium $19.90/year) add a private signature library, premium styles, and higher-resolution exports.
+- Is a typed or AI-generated signature legally valid? In many jurisdictions — including under the U.S. ESIGN Act and the EU's eIDAS regulation — a typed, drawn, or image-based electronic signature can be legally binding when it reflects clear intent to sign and is applied with consent. Requirements vary by document type and country. Signaturegen creates the signature image; it is not a legal e-signing or notarization service.
+- What file formats can I download my signature in? SVG (a scalable vector) or a transparent-background PNG. SVG is best for resizing without quality loss; PNG drops cleanly into Word, Google Docs, slides, and email.
+- Can I use my signature commercially? Yes, including on the free tier — on contracts, invoices, business documents, email, and branding.
+- Do I need to create an account? No. The free tier needs no signup. An account is only needed for a paid plan, which saves signatures privately and unlocks premium styles and higher-resolution exports.
+- How many signature styles are available? 26 signature fonts and styles, from elegant cursive and calligraphy to casual handwriting, with a live preview.
+- Are my signatures kept private? Live previews render on demand and are not saved. Signatures saved to a paid account are stored privately to your library and never shared publicly.
+
+## Links
+
+- Home: https://signaturegen.app/
+- Handwritten Signature Generator: https://signaturegen.app/tools/handwritten-signature-generator
+- Signature for PDF: https://signaturegen.app/tools/signature-for-pdf
+- Signature Generator for Your Name: https://signaturegen.app/tools/signature-generator-for-my-name
+- Live Signature: https://signaturegen.app/tools/live-signature
+- Pricing: https://signaturegen.app/pricing
+- About: https://signaturegen.app/about
+- Privacy: https://signaturegen.app/privacy
+- Terms: https://signaturegen.app/terms
