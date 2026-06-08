@@ -453,6 +453,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [huggingface-projects-docs-llms-txt.hf.space](https://huggingface-projects-docs-llms-txt.hf.space/huggingface_hub/llms.txt)
 - [huggingface-projects-docs-llms-txt.hf.space](https://huggingface-projects-docs-llms-txt.hf.space/transformers/llms.txt)
 - [iceberg.ma](https://iceberg.ma/llms.txt)
+- [idphotosnap.com (full)](https://idphotosnap.com/llms-full.txt)
+- [idphotosnap.com](https://idphotosnap.com/llms.txt)
 - [infisical.com (full)](https://infisical.com/docs/llms-full.txt)
 - [infisical.com](https://infisical.com/docs/llms.txt)
 - [inter-car.fr](https://inter-car.fr/llms.txt)
