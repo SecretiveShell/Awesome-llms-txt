@@ -746,6 +746,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [www.zycus.com](https://www.zycus.com/llms.txt)
 - [wxt.dev](https://wxt.dev/knowledge/docs.txt)
 - [zbrain.ai](https://zbrain.ai/llms.txt)
+- [zhangzeyu99-web.github.io](https://zhangzeyu99-web.github.io/ariadne-loop/llms.txt)
 
 ## Directories
 
