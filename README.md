@@ -607,6 +607,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [trigger.dev (full)](https://trigger.dev/docs/llms-full.txt)
 - [trigger.dev](https://trigger.dev/docs/llms.txt)
 - [turbo.build](https://turbo.build/llms.txt)
+- [turva.dev (full)](https://turva.dev/llms-full.txt)
+- [turva.dev](https://turva.dev/llms.txt)
 - [twittershots.com (full)](https://twittershots.com/llms-full.txt)
 - [unlocksaas.com (full)](https://unlocksaas.com/llms-full.txt)
 - [unlocksaas.com](https://unlocksaas.com/llms.txt)
