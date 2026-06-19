@@ -231,6 +231,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [docs.fractalpay.com](https://docs.fractalpay.com/llms.txt)
 - [docs.fractionai.xyz](https://docs.fractionai.xyz/llms.txt)
 - [docs.frigade.com](https://docs.frigade.com/llms.txt)
+- [docs.futureagi.com (full)](https://docs.futureagi.com/llms-full.txt)
+- [docs.futureagi.com](https://docs.futureagi.com/llms.txt)
 - [docs.galileo.ai](https://docs.galileo.ai/llms.txt)
 - [docs.getomni.ai](https://docs.getomni.ai/llms.txt)
 - [docs.giselles.ai (full)](https://docs.giselles.ai/llms-full.txt)
