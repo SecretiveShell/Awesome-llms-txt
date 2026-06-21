@@ -561,6 +561,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [screenshotone.com (full)](https://screenshotone.com/docs/llms-full.txt)
 - [screenshotone.com](https://screenshotone.com/docs/llms.txt)
 - [sdk.vercel.ai](https://sdk.vercel.ai/llms.txt)
+- [sejemskaoprema.si (full)](https://sejemskaoprema.si/llms-full.txt)
+- [sejemskaoprema.si](https://sejemskaoprema.si/llms.txt)
 - [semgrep.com (full)](https://semgrep.com/llms-full.txt)
 - [semgrep.com](https://semgrep.com/llms.txt)
 - [semgrep.dev](https://semgrep.dev/llms.txt)
