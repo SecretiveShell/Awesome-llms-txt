@@ -442,6 +442,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [handbook.exemplar.dev (full)](https://handbook.exemplar.dev/llms-full.txt)
 - [handbook.exemplar.dev](https://handbook.exemplar.dev/llms.txt)
 - [handledtax.com](https://handledtax.com/llms.txt)
+- [harper.fast](https://www.harper.fast/llms.txt)
 - [herd.garden (full)](https://herd.garden/llms-full.txt)
 - [herd.garden](https://herd.garden/llms.txt)
 - [heritagehardwoodfloors.thatwebhostingguy.com](https://heritagehardwoodfloors.thatwebhostingguy.com/llms.txt)
