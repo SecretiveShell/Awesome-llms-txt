@@ -25,6 +25,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [aws-legalgroup.com](https://aws-legalgroup.com/llms.txt)
 - [axiom.co (full)](https://axiom.co/docs/llms-full.txt)
 - [axiom.co](https://axiom.co/docs/llms.txt)
+- [ay-worldcup2026.zeabur.app](https://ay-worldcup2026.zeabur.app/llms.txt)
 - [backmesh.com](https://backmesh.com/llms.txt)
 - [bar-sis.com](https://bar-sis.com/llms.txt)
 - [bika.ai](https://bika.ai/llms.txt)
