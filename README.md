@@ -498,6 +498,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [maplebridge.io](https://maplebridge.io/llms.txt)
 - [martijnvanderdoes.com](https://martijnvanderdoes.com/llms.txt)
 - [mastra.ai](https://mastra.ai/llms.txt)
+- [maxaeo.ai](https://maxaeo.ai/llms.txt)
 - [medscanada.com (full)](https://medscanada.com/llms-full.txt)
 - [medscanada.com](https://medscanada.com/llms.txt)
 - [mercedeselizalde.es](https://mercedeselizalde.es/llms.txt)
