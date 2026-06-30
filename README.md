@@ -676,6 +676,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [www.gilesthomas.com](https://www.gilesthomas.com/llms.txt)
 - [www.glideapps.com](https://www.glideapps.com/llms.txt)
 - [www.gradio.app](https://www.gradio.app/llms.txt)
+- [www.halopos.store](https://www.halopos.store/llms.txt)
+- [www.halopos.store (full)](https://www.halopos.store/llms-full.txt)
 - [www.harper.fast](https://www.harper.fast/llms.txt)
 - [www.helicone.ai](https://www.helicone.ai/llms.txt)
 - [www.industrial-central.com](https://www.industrial-central.com/llms.txt)
