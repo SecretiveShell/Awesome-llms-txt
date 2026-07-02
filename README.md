@@ -629,6 +629,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [valdhealth.com](https://valdhealth.com/llms.txt)
 - [vertoai.it (full)](https://vertoai.it/llms-full.txt)
 - [vertoai.it](https://vertoai.it/llms.txt)
+- [vibekit.bot](https://vibekit.bot/llms.txt)
 - [vidovi.ch](https://vidovi.ch/llms.txt)
 - [viem.sh (full)](https://viem.sh/llms-full.txt)
 - [viem.sh](https://viem.sh/llms.txt)
