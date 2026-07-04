@@ -18,6 +18,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [alphix.com](https://alphix.com/llms.txt)
 - [api-docs.devhub.com](https://api-docs.devhub.com/llms.txt)
 - [apify.com](https://apify.com/llms.txt)
+- [app.sfdj.net](https://app.sfdj.net/llms.txt)
 - [appzung.com](https://appzung.com/llms.txt)
 - [arcadelab.ai](https://arcadelab.ai/llms.txt)
 - [ast-grep.github.io (full)](https://ast-grep.github.io/llms-full.txt)
