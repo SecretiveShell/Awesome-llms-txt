@@ -437,6 +437,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [glaforge.dev (full)](https://glaforge.dev/llms-full.txt)
 - [global-chat.io (full)](https://global-chat.io/llms-full.txt)
 - [global-chat.io](https://global-chat.io/llms.txt)
+- [gluten-free.fr](https://gluten-free.fr/llms.txt)
 - [gokcetransfer.com](https://gokcetransfer.com/llms.txt)
 - [gr-docs.aporia.com](https://gr-docs.aporia.com/llms.txt)
 - [gruzdevv.ru (full)](https://gruzdevv.ru/llms-full.txt)
