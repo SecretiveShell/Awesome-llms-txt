@@ -461,6 +461,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [inter-car.fr](https://inter-car.fr/llms.txt)
 - [iqboatlifts.com (full)](https://iqboatlifts.com/llms-full.txt)
 - [iqboatlifts.com](https://iqboatlifts.com/llms.txt)
+- [isimplifyme.com](https://isimplifyme.com/llms.txt)
 - [jazz.tools (full)](https://jazz.tools/llms-full.txt)
 - [jazz.tools](https://jazz.tools/llms.txt)
 - [jimukiki.net](https://jimukiki.net/llms.txt)
