@@ -54,6 +54,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [cloud.needle.tools (full)](https://cloud.needle.tools/llms-full.txt)
 - [cloud.needle.tools](https://cloud.needle.tools/llms.txt)
 - [cog.run](https://cog.run/llms.txt)
+- [cogdepot.com](https://cogdepot.com/llms.txt)
 - [console.groq.com (full)](https://console.groq.com/llms-full.txt)
 - [console.groq.com](https://console.groq.com/llms.txt)
 - [convex.dev](https://convex.dev/llms.txt)
