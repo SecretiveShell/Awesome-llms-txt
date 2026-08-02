@@ -591,6 +591,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [sitespeak.ai](https://sitespeak.ai/llms.txt)
 - [smartcar.com (full)](https://smartcar.com/docs/llms-full.txt)
 - [smartcar.com](https://smartcar.com/docs/llms.txt)
+- [smry.ai (full)](https://smry.ai/llms-full.txt)
+- [smry.ai](https://smry.ai/llms.txt)
 - [solt.app](https://solt.app/llms.txt)
 - [sourcegraph.com](https://sourcegraph.com/docs/llms.txt)
 - [sprytools.com](https://sprytools.com/llms.txt)
