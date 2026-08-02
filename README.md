@@ -353,6 +353,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [docs.siliconflow.cn (full)](https://docs.siliconflow.cn/llms-full.txt)
 - [docs.social.plus](https://docs.social.plus/llms.txt)
 - [docs.solidfi.com](https://docs.solidfi.com/llms.txt)
+- [docs.sofizpay.com (full)](https://docs.sofizpay.com/llms-full.txt)
+- [docs.sofizpay.com](https://docs.sofizpay.com/llms.txt)
 - [docs.squared.ai (full)](https://docs.squared.ai/llms-full.txt)
 - [docs.squared.ai](https://docs.squared.ai/llms.txt)
 - [docs.stripe.com](https://docs.stripe.com/llms.txt)
