@@ -91,6 +91,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [developers.portone.io](https://developers.portone.io/llms.txt)
 - [developers.raycast.com](https://developers.raycast.com/llms.txt)
 - [developers.sitecore.com](https://developers.sitecore.com/llms.txt)
+- [dinnerelite.com (full)](https://dinnerelite.com/llms-full.txt)
+- [dinnerelite.com](https://dinnerelite.com/llms.txt)
 - [directory.llmstxt.cloud](https://directory.llmstxt.cloud/llms.txt)
 - [dnacore.ai](https://dnacore.ai/llms.txt)
 - [docs-en.sinch.com](https://docs-en.sinch.com/llms.txt)
