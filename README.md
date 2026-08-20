@@ -504,6 +504,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [loops.so](https://loops.so/docs/llms.txt)
 - [lotsofcsvs.com](https://lotsofcsvs.com/llms.txt)
 - [lugg.com](https://lugg.com/llms.txt)
+- [magento.watch (full)](https://magento.watch/llms-full.txt)
+- [magento.watch](https://magento.watch/llms.txt)
 - [makojs.dev](https://makojs.dev/llms.txt)
 - [manifest.ly (full)](https://manifest.ly/llms-full.txt)
 - [manifest.ly](https://manifest.ly/llms.txt)
