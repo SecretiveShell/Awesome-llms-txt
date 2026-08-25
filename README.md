@@ -23,6 +23,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [arcadelab.ai](https://arcadelab.ai/llms.txt)
 - [ast-grep.github.io (full)](https://ast-grep.github.io/llms-full.txt)
 - [ast-grep.github.io](https://ast-grep.github.io/llms.txt)
+- [autonomylabsweb.tech](https://www.autonomylabsweb.tech/llms.txt)
 - [aws-legalgroup.com](https://aws-legalgroup.com/llms.txt)
 - [axiom.co (full)](https://axiom.co/docs/llms-full.txt)
 - [axiom.co](https://axiom.co/docs/llms.txt)
