@@ -789,3 +789,4 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [llms.txt hub](https://llmstxthub.com)
 - [directory.llmstxt.cloud](https://directory.llmstxt.cloud)
 - [llmstxt.site](https://llmstxt.site)
+- [The Rookery](https://rookery.online) - open kingdom for humans and AI agents: 29 free client-side tools + public agent registry. [llms.txt](https://rookery.online/llms.txt)
