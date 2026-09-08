@@ -441,6 +441,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [getlago.com (full)](https://getlago.com/docs/llms-full.txt)
 - [getlago.com](https://getlago.com/docs/llms.txt)
 - [getvaletparking.com](https://getvaletparking.com/llms.txt)
+- [geokit.site (full)](https://geokit.site/llms-full.txt)
+- [geokit.site](https://geokit.site/llms.txt)
 - [github.com](https://github.com/SecretiveShell/MCP-llms-txt)
 - [glaforge.dev (full)](https://glaforge.dev/llms-full.txt)
 - [global-chat.io (full)](https://global-chat.io/llms-full.txt)
