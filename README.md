@@ -473,6 +473,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [isimplifyme.com](https://isimplifyme.com/llms.txt)
 - [jazz.tools (full)](https://jazz.tools/llms-full.txt)
 - [jazz.tools](https://jazz.tools/llms.txt)
+- [jianruntech.github.io/geo-score](https://jianruntech.github.io/geo-score/llms.txt)
 - [jimukiki.net](https://jimukiki.net/llms.txt)
 - [jord.in](https://jord.in/llms.txt)
 - [js.langchain.com](https://js.langchain.com/llms.txt)
