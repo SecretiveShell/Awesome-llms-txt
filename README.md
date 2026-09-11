@@ -555,6 +555,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [orm.drizzle.team](https://orm.drizzle.team/llms.txt)
 - [pandaci.com](https://pandaci.com/llms.txt)
 - [papergraderpro.com](https://papergraderpro.com/llms.txt)
+- [pasteguard-exp2.netlify.app](https://pasteguard-exp2.netlify.app/llms.txt)
 - [pixelvault.dev](https://pixelvault.dev/llms.txt)
 - [plasticol.es](https://plasticol.es/llms.txt)
 - [pokerreborn.com (full)](https://pokerreborn.com/llms-full.txt)
