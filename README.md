@@ -782,6 +782,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [wxt.dev](https://wxt.dev/knowledge/docs.txt)
 - [xquik.com (full)](https://xquik.com/llms-full.txt)
 - [xquik.com](https://xquik.com/llms.txt)
+- [zambo.dev](https://zambo.dev/llms.txt)
 - [zbrain.ai](https://zbrain.ai/llms.txt)
 
 ## Directories
