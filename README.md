@@ -495,6 +495,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [llm.skydeck.ai (full)](https://llm.skydeck.ai/llms-full.txt)
 - [llm.skydeck.ai](https://llm.skydeck.ai/llms.txt)
 - [llmstxt.org](https://llmstxt.org/llms.txt)
+- [llmstxtgenerator.dev](https://llmstxtgenerator.dev/llms.txt)
 - [llmstxtmanager.com](https://llmstxtmanager.com/llms.txt)
 - [lmstudio.ai (full)](https://lmstudio.ai/llms-full.txt)
 - [lmstudio.ai](https://lmstudio.ai/llms.txt)
