@@ -590,6 +590,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [semgrep.com](https://semgrep.com/llms.txt)
 - [semgrep.dev](https://semgrep.dev/llms.txt)
 - [seolevante.com](https://seolevante.com/llms.txt)
+- [shortshort.io (full)](https://www.shortshort.io/llms-full.txt)
+- [shortshort.io](https://www.shortshort.io/llms.txt)
 - [signaturegen.app (full)](https://signaturegen.app/llms-full.txt)
 - [signaturegen.app](https://signaturegen.app/llms.txt)
 - [sigtech.com](https://sigtech.com/llms.txt)
