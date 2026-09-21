@@ -62,6 +62,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [console.groq.com](https://console.groq.com/llms.txt)
 - [convex.dev](https://convex.dev/llms.txt)
 - [cookbook_ao.g8way.io](https://cookbook_ao.g8way.io/llms.txt)
+- [coworkingview.com (full)](https://coworkingview.com/llms-full.txt)
+- [coworkingview.com](https://coworkingview.com/llms.txt)
 - [crawlgraph.com (full)](https://crawlgraph.com/llms-full.txt)
 - [crawlgraph.com](https://crawlgraph.com/llms.txt)
 - [cv.ryoppippi.com (full)](https://cv.ryoppippi.com/llms-full.txt)
