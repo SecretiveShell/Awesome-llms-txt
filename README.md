@@ -653,6 +653,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [vertoai.it](https://vertoai.it/llms.txt)
 - [vibekit.bot](https://vibekit.bot/llms.txt)
 - [vidovi.ch](https://vidovi.ch/llms.txt)
+- [viggisfoodtrucks.com](https://viggisfoodtrucks.com/llms.txt)
 - [viem.sh (full)](https://viem.sh/llms-full.txt)
 - [viem.sh](https://viem.sh/llms.txt)
 - [vue-macros.dev (full)](https://vue-macros.dev/llms-full.txt)
