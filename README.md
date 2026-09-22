@@ -573,6 +573,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [rainbowkit.com (full)](https://rainbowkit.com/llms-full.txt)
 - [rainbowkit.com](https://rainbowkit.com/llms.txt)
 - [raincamp.ai](https://raincamp.ai/llms.txt)
+- [rankavex.com](https://rankavex.com/llms.txt)
 - [rankscale.ai](https://rankscale.ai/llms.txt)
 - [raw.githubusercontent.com (full)](https://raw.githubusercontent.com/raycast/extensions/refs/heads/gh-pages/llms-full.txt)
 - [raw.githubusercontent.com](https://raw.githubusercontent.com/crackedngineer/iLoveGithub/refs/heads/master/llm.txt)
