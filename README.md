@@ -570,6 +570,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [pubfi.ai (full)](https://pubfi.ai/llms-full.txt)
 - [pubfi.ai](https://pubfi.ai/llms.txt)
 - [python.langchain.com](https://python.langchain.com/llms.txt)
+- [rafaelpfister.ch (full)](https://rafaelpfister.ch/llms-full.txt)
+- [rafaelpfister.ch](https://rafaelpfister.ch/llms.txt)
 - [rainbowkit.com (full)](https://rainbowkit.com/llms-full.txt)
 - [rainbowkit.com](https://rainbowkit.com/llms.txt)
 - [raincamp.ai](https://raincamp.ai/llms.txt)
