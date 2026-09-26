@@ -420,6 +420,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [dualmark.dev](https://dualmark.dev/llms.txt)
 - [dub.co (full)](https://dub.co/docs/llms-full.txt)
 - [dub.co](https://dub.co/docs/llms.txt)
+- [eatlocal.dk](https://eatlocal.dk/llms.txt)
 - [elevenlabs.io (full)](https://elevenlabs.io/docs/llms-full.txt)
 - [elevenlabs.io](https://elevenlabs.io/docs/llms.txt)
 - [emailgic.com](https://emailgic.com/llms.txt)
