@@ -428,6 +428,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [evacalendar.app](https://evacalendar.app/llms.txt)
 - [examace.ca (full)](https://examace.ca/llms-full.txt)
 - [examace.ca](https://examace.ca/llms.txt)
+- [fachada.chelsea-hermes.workers.dev](https://fachada.chelsea-hermes.workers.dev/llms.txt)
 - [faq.karrier.one](https://faq.karrier.one/llms.txt)
 - [fastcrw.com](https://fastcrw.com/llms.txt)
 - [fasttool.app](https://fasttool.app/llms.txt)
