@@ -476,6 +476,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [jimukiki.net](https://jimukiki.net/llms.txt)
 - [jord.in](https://jord.in/llms.txt)
 - [js.langchain.com](https://js.langchain.com/llms.txt)
+- [karmafor.ai](https://karmafor.ai/llms.txt)
 - [kitazawa.dev](https://kitazawa.dev/llms.txt)
 - [konstruction.ca (full)](https://konstruction.ca/llms-full.txt)
 - [konstruction.ca](https://konstruction.ca/llms.txt)
