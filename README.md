@@ -668,6 +668,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [vue-macros.dev (full)](https://vue-macros.dev/llms-full.txt)
 - [vue-macros.dev](https://vue-macros.dev/llms.txt)
 - [we-in-style.com](https://we-in-style.com/llms.txt)
+- [weaveai.dev](https://www.weaveai.dev/llms.txt)
+- [weaveai.dev (full)](https://www.weaveai.dev/llms-full.txt)
 - [web3.career](https://web3.career/llms.txt)
 - [webmemo.ch](https://webmemo.ch/llms.txt)
 - [webrecorder.net](https://webrecorder.net/llms.txt)
