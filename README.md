@@ -584,6 +584,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [rankscale.ai](https://rankscale.ai/llms.txt)
 - [raw.githubusercontent.com (full)](https://raw.githubusercontent.com/raycast/extensions/refs/heads/gh-pages/llms-full.txt)
 - [raw.githubusercontent.com](https://raw.githubusercontent.com/crackedngineer/iLoveGithub/refs/heads/master/llm.txt)
+- [raw.githubusercontent.com (full)](https://raw.githubusercontent.com/openapi/openapi-llm-wiki/main/llms-full.txt)
+- [raw.githubusercontent.com](https://raw.githubusercontent.com/openapi/openapi-llm-wiki/main/llms.txt)
 - [razor-press.web-templates.io](https://razor-press.web-templates.io/llms.txt)
 - [remult.dev](https://remult.dev/llms.txt)
 - [renobrief.com](https://renobrief.com/llms.txt)
