@@ -667,6 +667,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [viem.sh](https://viem.sh/llms.txt)
 - [vue-macros.dev (full)](https://vue-macros.dev/llms-full.txt)
 - [vue-macros.dev](https://vue-macros.dev/llms.txt)
+- [wandered.io](https://wandered.io/llms.txt)
 - [we-in-style.com](https://we-in-style.com/llms.txt)
 - [web3.career](https://web3.career/llms.txt)
 - [webmemo.ch](https://webmemo.ch/llms.txt)
