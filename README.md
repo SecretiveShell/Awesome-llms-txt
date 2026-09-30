@@ -30,6 +30,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [backmesh.com](https://backmesh.com/llms.txt)
 - [bar-sis.com](https://bar-sis.com/llms.txt)
 - [bika.ai](https://bika.ai/llms.txt)
+- [birkinbagstock.com](https://birkinbagstock.com/llms.txt)
 - [bisresearch.com](https://bisresearch.com/llms.txt)
 - [bits-ui.com](https://bits-ui.com/llms.txt)
 - [blog.calendarscripts.info](https://blog.calendarscripts.info/llms.txt)
