@@ -577,6 +577,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [promptessor.com (full)](https://promptessor.com/llms-full.txt)
 - [pubfi.ai (full)](https://pubfi.ai/llms-full.txt)
 - [pubfi.ai](https://pubfi.ai/llms.txt)
+- [public-board.com (full)](https://public-board.com/llms-full.txt)
+- [public-board.com](https://public-board.com/llms.txt)
 - [python.langchain.com](https://python.langchain.com/llms.txt)
 - [rainbowkit.com (full)](https://rainbowkit.com/llms-full.txt)
 - [rainbowkit.com](https://rainbowkit.com/llms.txt)
