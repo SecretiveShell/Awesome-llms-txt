@@ -568,6 +568,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [pokerreborn.com (full)](https://pokerreborn.com/llms-full.txt)
 - [pokerreborn.com](https://pokerreborn.com/llms.txt)
 - [policylayer.com](https://policylayer.com/llms.txt)
+- [poliety.com](https://poliety.com/llms.txt)
 - [postfa.st (full)](https://postfa.st/llms-full.txt)
 - [postfa.st](https://postfa.st/llms.txt)
 - [prisma.io (full)](https://prisma.io/docs/llms-full.txt)
