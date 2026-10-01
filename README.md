@@ -93,6 +93,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [developers.raycast.com](https://developers.raycast.com/llms.txt)
 - [developers.sitecore.com](https://developers.sitecore.com/llms.txt)
 - [directory.llmstxt.cloud](https://directory.llmstxt.cloud/llms.txt)
+- [diversz.lovable.app](https://diversz.lovable.app/llms.txt)
 - [dnacore.ai](https://dnacore.ai/llms.txt)
 - [docs-en.sinch.com](https://docs-en.sinch.com/llms.txt)
 - [docs.1millionbot.com](https://docs.1millionbot.com/llms.txt)
