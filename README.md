@@ -506,6 +506,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [llmtxt.info](https://llmtxt.info/llms.txt)
 - [lmstudio.ai (full)](https://lmstudio.ai/llms-full.txt)
 - [lmstudio.ai](https://lmstudio.ai/llms.txt)
+- [lobby.host](https://lobby.host/llms.txt)
 - [longevityworldcup.com (full)](https://longevityworldcup.com/llms-full.txt)
 - [longevityworldcup.com](https://longevityworldcup.com/llms.txt)
 - [loops.so (full)](https://loops.so/docs/llms-full.txt)
