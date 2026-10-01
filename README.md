@@ -545,6 +545,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [nexech.com](https://nexech.com/llms.txt)
 - [nohumans.xyz (full)](https://nohumans.xyz/llms-full.txt)
 - [nohumans.xyz](https://nohumans.xyz/llms.txt)
+- [noozra.com](https://noozra.com/llms.txt)
 - [norwegian4x4.com](https://norwegian4x4.com/llms.txt)
 - [nothumansearch.ai (full)](https://nothumansearch.ai/llms-full.txt)
 - [nothumansearch.ai](https://nothumansearch.ai/llms.txt)
