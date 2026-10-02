@@ -589,6 +589,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [renobrief.com](https://renobrief.com/llms.txt)
 - [resend.com (full)](https://resend.com/docs/llms-full.txt)
 - [resend.com](https://resend.com/docs/llms.txt)
+- [robohub.app](https://robohub.app/llms.txt)
 - [rubric.com](https://rubric.com/llms.txt)
 - [sankeydiagram.net](https://sankeydiagram.net/llms.txt)
 - [screenshotone.com (full)](https://screenshotone.com/docs/llms-full.txt)
