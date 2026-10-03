@@ -802,3 +802,4 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [directory.llmstxt.cloud](https://directory.llmstxt.cloud)
 - [llmstxt.site](https://llmstxt.site)
 - [AI Product Index](https://index.percall.dev/llms.txt)
+- [CheckScore.ai](https://checkscore.ai/llms.txt)
