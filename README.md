@@ -623,6 +623,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [talkpython.fm](https://talkpython.fm/llms.txt)
 - [tamagui.dev](https://tamagui.dev/llms.txt)
 - [telescope.co](https://telescope.co/llms.txt)
+- [teslawrapgenerator.com](https://teslawrapgenerator.com/llms.txt)
 - [thataiguy.org](https://thataiguy.org/llms.txt)
 - [thatdeveloperguy.com](https://thatdeveloperguy.com/llms.txt)
 - [thatdevpro.com (full)](https://thatdevpro.com/llms-full.txt)
