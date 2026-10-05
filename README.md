@@ -603,6 +603,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [sigtech.com](https://sigtech.com/llms.txt)
 - [siteria.by](https://siteria.by/llms.txt)
 - [sitespeak.ai](https://sitespeak.ai/llms.txt)
+- [skyaccess.com (full)](https://skyaccess.com/llms-full.txt)
+- [skyaccess.com](https://skyaccess.com/llms.txt)
 - [smartcar.com (full)](https://smartcar.com/docs/llms-full.txt)
 - [smartcar.com](https://smartcar.com/docs/llms.txt)
 - [smry.ai (full)](https://smry.ai/llms-full.txt)
