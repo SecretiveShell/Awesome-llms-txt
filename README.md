@@ -612,6 +612,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [sprytools.com](https://sprytools.com/llms.txt)
 - [starwind.dev (full)](https://starwind.dev/llms-full.txt)
 - [starwind.dev](https://starwind.dev/llms.txt)
+- [status.live](https://status.live/llms.txt)
 - [steelesolutions4u.com](https://steelesolutions4u.com/llms.txt)
 - [sterkanazed.cz](https://sterkanazed.cz/llms.txt)
 - [supabase.com](https://supabase.com/llms.txt)
