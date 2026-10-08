@@ -472,6 +472,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [iceberg.ma](https://iceberg.ma/llms.txt)
 - [infisical.com (full)](https://infisical.com/docs/llms-full.txt)
 - [infisical.com](https://infisical.com/docs/llms.txt)
+- [indexlinks.app](https://indexlinks.app/llms.txt)
 - [inter-car.fr](https://inter-car.fr/llms.txt)
 - [iqboatlifts.com (full)](https://iqboatlifts.com/llms-full.txt)
 - [iqboatlifts.com](https://iqboatlifts.com/llms.txt)
