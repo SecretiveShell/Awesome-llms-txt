@@ -20,6 +20,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [apify.com](https://apify.com/llms.txt)
 - [app.sfdj.net](https://app.sfdj.net/llms.txt)
 - [appzung.com](https://appzung.com/llms.txt)
+- [apex-edge.pearceshrader.workers.dev](https://apex-edge.pearceshrader.workers.dev/llms.txt)
 - [arcadelab.ai](https://arcadelab.ai/llms.txt)
 - [ast-grep.github.io (full)](https://ast-grep.github.io/llms-full.txt)
 - [ast-grep.github.io](https://ast-grep.github.io/llms.txt)
