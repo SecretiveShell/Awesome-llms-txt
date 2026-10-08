@@ -570,6 +570,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [policylayer.com](https://policylayer.com/llms.txt)
 - [postfa.st (full)](https://postfa.st/llms-full.txt)
 - [postfa.st](https://postfa.st/llms.txt)
+- [postwire.io (full)](https://postwire.io/llms-full.txt)
+- [postwire.io](https://postwire.io/llms.txt)
 - [prisma.io (full)](https://prisma.io/docs/llms-full.txt)
 - [prisma.io (full)](https://prisma.io/llms-full.txt)
 - [prisma.io](https://prisma.io/docs/llms.txt)
