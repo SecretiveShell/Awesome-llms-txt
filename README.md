@@ -208,6 +208,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [docs.cursor.com](https://docs.cursor.com/llms.txt)
 - [docs.danielvoelk.de](https://docs.danielvoelk.de/llms.txt)
 - [docs.dappier.com](https://docs.dappier.com/llms.txt)
+- [docs.datacircle.dev (full)](https://docs.datacircle.dev/llms-full.txt)
+- [docs.datacircle.dev](https://docs.datacircle.dev/llms.txt)
 - [docs.datafold.com (full)](https://docs.datafold.com/llms-full.txt)
 - [docs.datafold.com](https://docs.datafold.com/llms.txt)
 - [docs.dataimpulse.com](https://docs.dataimpulse.com/llms.txt)
