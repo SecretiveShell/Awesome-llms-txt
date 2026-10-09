@@ -533,6 +533,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [mojeterminy.pl](https://mojeterminy.pl/llms.txt)
 - [monsterui.answer.ai](https://monsterui.answer.ai/llms.txt)
 - [movehealth.me](https://movehealth.me/llms.txt)
+- [musedin.com](https://musedin.com/llms.txt)
 - [muspimerol.site (full)](https://muspimerol.site/llms-full.txt)
 - [muspimerol.site](https://muspimerol.site/llms.txt)
 - [mydentify.com](https://mydentify.com/tools/ai-crawler-access-checker/llms.txt)
