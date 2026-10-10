@@ -551,6 +551,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [novilabs.com](https://novilabs.com/llms.txt)
 - [nwaids.com](https://nwaids.com/llms.txt)
 - [nwapoolice.com](https://nwapoolice.com/llms.txt)
+- [obrotomierz.pl (full)](https://obrotomierz.pl/llms-full.txt)
+- [obrotomierz.pl](https://obrotomierz.pl/llms.txt)
 - [onagents.org](https://onagents.org/llms.txt)
 - [onevcat.com](https://onevcat.com/llms.txt)
 - [open.longportapp.com](https://open.longportapp.com/llms.txt)
