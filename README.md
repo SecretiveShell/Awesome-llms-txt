@@ -13,6 +13,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [ai-interviewer.micro1.ai](https://ai-interviewer.micro1.ai/llms.txt)
 - [aidevboard.com](https://aidevboard.com/llms.txt)
 - [aifruit.app](https://aifruit.app/llms.txt)
+- [airanked.ai](https://airanked.ai/llms.txt)
 - [akademicevre.com](https://akademicevre.com/llms.txt)
 - [alexop.dev](https://alexop.dev/llms.txt)
 - [alphix.com](https://alphix.com/llms.txt)
