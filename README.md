@@ -39,6 +39,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [blog.zithara.com](https://blog.zithara.com/llms.txt)
 - [boehs.org](https://boehs.org/llms.txt)
 - [booqable.com](https://booqable.com/llms.txt)
+- [botgathering.com](https://botgathering.com/llms.txt)
 - [brewpage.app (full)](https://brewpage.app/llms-full.txt)
 - [brewpage.app](https://brewpage.app/llms.txt)
 - [buckybodycenter.com](https://buckybodycenter.com/llms.txt)
