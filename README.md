@@ -561,6 +561,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [openrouter.ai](https://openrouter.ai/docs/llms.txt)
 - [orm.drizzle.team (full)](https://orm.drizzle.team/llms-full.txt)
 - [orm.drizzle.team](https://orm.drizzle.team/llms.txt)
+- [pagelens.io](https://pagelens.io/llms.txt)
 - [pandaci.com](https://pandaci.com/llms.txt)
 - [papergraderpro.com](https://papergraderpro.com/llms.txt)
 - [pixelvault.dev](https://pixelvault.dev/llms.txt)
