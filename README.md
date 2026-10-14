@@ -488,6 +488,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [konstruction.ca](https://konstruction.ca/llms.txt)
 - [kumo.productions](https://kumo.productions/llms.txt)
 - [langfuse.com](https://langfuse.com/llms.txt)
+- [latchkey.dev](https://latchkey.dev/llms.txt)
 - [liambx.com (full)](https://liambx.com/docs/llms-full.txt)
 - [liblab.com](https://liblab.com/llms.txt)
 - [likec4.dev (full)](https://likec4.dev/llms-full.txt)
