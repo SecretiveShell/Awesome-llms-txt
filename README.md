@@ -392,6 +392,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [docs.videowise.com](https://docs.videowise.com/llms.txt)
 - [docs.vooi.io](https://docs.vooi.io/llms.txt)
 - [docs.vvs.finance](https://docs.vvs.finance/llms.txt)
+- [docs.warmerly.com (full)](https://docs.warmerly.com/llms-full.txt)
+- [docs.warmerly.com](https://docs.warmerly.com/llms.txt)
 - [docs.warp.dev (full)](https://docs.warp.dev/llms-full.txt)
 - [docs.warp.dev](https://docs.warp.dev/llms.txt)
 - [docs.waveonsui.com](https://docs.waveonsui.com/llms.txt)
