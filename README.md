@@ -778,6 +778,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [www.upload-post.com (full)](https://www.upload-post.com/llms-full.txt)
 - [www.upload-post.com](https://www.upload-post.com/llms.txt)
 - [www.usemultiplier.com](https://www.usemultiplier.com/llms.txt)
+- [www.usesequential.com (full)](https://www.usesequential.com/llms-full.txt)
+- [www.usesequential.com](https://www.usesequential.com/llms.txt)
 - [www.vald.com](https://www.vald.com/llms.txt)
 - [www.vibebot.gg (full)](https://www.vibebot.gg/llms-full.txt)
 - [www.vibebot.gg](https://www.vibebot.gg/llms.txt)
