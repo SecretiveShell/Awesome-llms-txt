@@ -609,6 +609,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [smry.ai](https://smry.ai/llms.txt)
 - [solt.app](https://solt.app/llms.txt)
 - [sourcegraph.com](https://sourcegraph.com/docs/llms.txt)
+- [sourcey.com](https://sourcey.com/llms.txt)
+- [sourcey.com (full)](https://sourcey.com/llms-full.txt)
 - [sprytools.com](https://sprytools.com/llms.txt)
 - [starwind.dev (full)](https://starwind.dev/llms-full.txt)
 - [starwind.dev](https://starwind.dev/llms.txt)
