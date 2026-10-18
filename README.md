@@ -584,6 +584,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [openchainbench.com](https://openchainbench.com/llms.txt)
 - [openrouter.ai (full)](https://openrouter.ai/docs/llms-full.txt)
 - [openrouter.ai](https://openrouter.ai/docs/llms.txt)
+- [orkkid.com](https://orkkid.com/llms.txt)
 - [orm.drizzle.team (full)](https://orm.drizzle.team/llms-full.txt)
 - [orm.drizzle.team](https://orm.drizzle.team/llms.txt)
 - [pandaci.com](https://pandaci.com/llms.txt)
