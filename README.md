@@ -35,6 +35,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [bestax.io (full)](https://bestax.io/llms-full.txt)
 - [bestax.io](https://bestax.io/llms.txt)
 - [bika.ai](https://bika.ai/llms.txt)
+- [birkinbagstock.com](https://birkinbagstock.com/llms.txt)
 - [bisresearch.com](https://bisresearch.com/llms.txt)
 - [bits-ui.com](https://bits-ui.com/llms.txt)
 - [bjjgraph.org](https://bjjgraph.org/llms.txt)
