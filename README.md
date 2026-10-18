@@ -425,6 +425,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [docspring.com](https://docspring.com/llms.txt)
 - [documentation.blitzllama.com](https://documentation.blitzllama.com/llms.txt)
 - [dotenvx.com](https://dotenvx.com/llms.txt)
+- [drinkedin.net (full)](https://drinkedin.net/llms-full.txt)
+- [drinkedin.net](https://drinkedin.net/llms.txt)
 - [dualmark.dev](https://dualmark.dev/llms.txt)
 - [dub.co (full)](https://dub.co/docs/llms-full.txt)
 - [dub.co](https://dub.co/docs/llms.txt)
