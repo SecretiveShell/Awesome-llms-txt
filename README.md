@@ -523,6 +523,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [llm.rememberizer.ai (full)](https://llm.rememberizer.ai/llms-full.txt)
 - [llm.skydeck.ai (full)](https://llm.skydeck.ai/llms-full.txt)
 - [llm.skydeck.ai](https://llm.skydeck.ai/llms.txt)
+- [llmstextgenerator.com (full)](https://llmstextgenerator.com/llms-full.txt)
+- [llmstextgenerator.com](https://llmstextgenerator.com/llms.txt)
 - [llmstxt.org](https://llmstxt.org/llms.txt)
 - [llmstxtmanager.com](https://llmstxtmanager.com/llms.txt)
 - [llmtxt.info](https://llmtxt.info/llms.txt)
