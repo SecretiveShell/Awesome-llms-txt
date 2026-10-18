@@ -65,6 +65,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [cookbook_ao.g8way.io](https://cookbook_ao.g8way.io/llms.txt)
 - [crawlgraph.com (full)](https://crawlgraph.com/llms-full.txt)
 - [crawlgraph.com](https://crawlgraph.com/llms.txt)
+- [curlshot.com (full)](https://curlshot.com/llms-full.txt)
+- [curlshot.com](https://curlshot.com/llms.txt)
 - [cv.ryoppippi.com (full)](https://cv.ryoppippi.com/llms-full.txt)
 - [daisyui.com](https://daisyui.com/llms.txt)
 - [daisyui.tailwind.org.cn](https://daisyui.tailwind.org.cn/llms.txt)
