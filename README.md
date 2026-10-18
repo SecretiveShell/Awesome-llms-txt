@@ -16,6 +16,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [akademicevre.com](https://akademicevre.com/llms.txt)
 - [alexop.dev](https://alexop.dev/llms.txt)
 - [alphix.com](https://alphix.com/llms.txt)
+- [altorank.co](https://altorank.co/llms.txt)
 - [api-docs.devhub.com](https://api-docs.devhub.com/llms.txt)
 - [apify.com](https://apify.com/llms.txt)
 - [app.sfdj.net](https://app.sfdj.net/llms.txt)
