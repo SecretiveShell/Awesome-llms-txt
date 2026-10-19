@@ -704,6 +704,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [webkodingtheme.com](https://webkodingtheme.com/llms.txt)
 - [webmemo.ch](https://webmemo.ch/llms.txt)
 - [webrecorder.net](https://webrecorder.net/llms.txt)
+- [whalecoupons.co](https://whalecoupons.co/llms.txt)
 - [wordlift.io](https://wordlift.io/llms.txt)
 - [wpseo.it](https://wpseo.it/llms.txt)
 - [www.activepieces.com (full)](https://www.activepieces.com/docs/llms-full.txt)
