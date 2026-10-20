@@ -16,6 +16,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [ai.topxea.com](https://ai.topxea.com/llms.txt)
 - [aidevboard.com](https://aidevboard.com/llms.txt)
 - [aifruit.app](https://aifruit.app/llms.txt)
+- [aikstockdata.com (full)](https://aikstockdata.com/llms-full.txt)
+- [aikstockdata.com](https://aikstockdata.com/llms.txt)
 - [akademicevre.com](https://akademicevre.com/llms.txt)
 - [alexop.dev](https://alexop.dev/llms.txt)
 - [alphix.com](https://alphix.com/llms.txt)
