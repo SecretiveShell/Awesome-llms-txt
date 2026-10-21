@@ -767,6 +767,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [www.parseable.com](https://www.parseable.com/llms.txt)
 - [www.pixaura.com (full)](https://www.pixaura.com/llms-full.txt)
 - [www.pixaura.com](https://www.pixaura.com/llms.txt)
+- [www.pixid.studio](https://www.pixid.studio/llms.txt)
 - [www.plain.com (full)](https://www.plain.com/docs/llms-full.txt)
 - [www.plain.com](https://www.plain.com/docs/llms.txt)
 - [www.popsmash.com (full)](https://www.popsmash.com/llms-full.txt)
