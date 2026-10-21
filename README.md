@@ -755,6 +755,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [www.liblab.com](https://www.liblab.com/llms.txt)
 - [www.listennotes.com](https://www.listennotes.com/llms.txt)
 - [www.manifest.ly](https://www.manifest.ly/llms.txt)
+- [www.maysurprise.com (full)](https://www.maysurprise.com/llms-full.txt)
+- [www.maysurprise.com](https://www.maysurprise.com/llms.txt)
 - [www.mcginniscommawill.com](https://www.mcginniscommawill.com/llms.txt)
 - [www.meilisearch.com (full)](https://www.meilisearch.com/llms-full.txt)
 - [www.meilisearch.com](https://www.meilisearch.com/llms.txt)
