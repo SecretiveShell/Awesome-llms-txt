@@ -740,6 +740,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [www.eastagile.com](https://www.eastagile.com/llms.txt)
 - [www.electromechanicalsnow.com](https://www.electromechanicalsnow.com/llms.txt)
 - [www.emergentaviation.com](https://www.emergentaviation.com/llms.txt)
+- [www.emigro.online](https://www.emigro.online/llms.txt)
 - [www.erveysa.com](https://www.erveysa.com/llms.txt)
 - [www.fagaf.com](https://www.fagaf.com/llms.txt)
 - [www.gilesthomas.com](https://www.gilesthomas.com/llms.txt)
