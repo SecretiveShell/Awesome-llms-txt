@@ -805,6 +805,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [www.trailofbits.com](https://www.trailofbits.com/llms.txt)
 - [www.tryprofound.com](https://www.tryprofound.com/llms.txt)
 - [www.tuttosullegalline.it](https://www.tuttosullegalline.it/llms.txt)
+- [www.uaeproperty.vip](https://www.uaeproperty.vip/llms.txt)
 - [www.ultiplace.com (full)](https://www.ultiplace.com/llms-full.txt)
 - [www.ultiplace.com](https://www.ultiplace.com/llms.txt)
 - [www.unistyl.es](https://www.unistyl.es/llms.txt)
