@@ -448,6 +448,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [examace.ca](https://examace.ca/llms.txt)
 - [eyalsec.com (full)](https://eyalsec.com/llms-full.txt)
 - [eyalsec.com](https://eyalsec.com/llms.txt)
+- [faberlang.dev (full)](https://faberlang.dev/llms-full.txt)
+- [faberlang.dev](https://faberlang.dev/llms.txt)
 - [faq.karrier.one](https://faq.karrier.one/llms.txt)
 - [fastcrw.com](https://fastcrw.com/llms.txt)
 - [fasttool.app](https://fasttool.app/llms.txt)
