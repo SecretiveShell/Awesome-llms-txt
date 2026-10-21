@@ -612,6 +612,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [raw.githubusercontent.com (full)](https://raw.githubusercontent.com/raycast/extensions/refs/heads/gh-pages/llms-full.txt)
 - [raw.githubusercontent.com](https://raw.githubusercontent.com/crackedngineer/iLoveGithub/refs/heads/master/llm.txt)
 - [razor-press.web-templates.io](https://razor-press.web-templates.io/llms.txt)
+- [refinerydata.net (full)](https://refinerydata.net/llms-full.txt)
+- [refinerydata.net](https://refinerydata.net/llms.txt)
 - [remult.dev](https://remult.dev/llms.txt)
 - [renobrief.com](https://renobrief.com/llms.txt)
 - [resend.com (full)](https://resend.com/docs/llms-full.txt)
