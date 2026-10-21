@@ -772,6 +772,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [www.popsmash.com (full)](https://www.popsmash.com/llms-full.txt)
 - [www.popsmash.com](https://www.popsmash.com/llms.txt)
 - [www.positrixpower.com](https://www.positrixpower.com/llms.txt)
+- [www.prep2go.study](https://www.prep2go.study/llms.txt)
 - [www.proevaluationsystem.com](https://www.proevaluationsystem.com/llms.txt)
 - [www.pulsemcp.com](https://www.pulsemcp.com/llms.txt)
 - [www.purav.co](https://www.purav.co/llms.txt)
