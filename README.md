@@ -462,6 +462,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [geobuddy.co](https://geobuddy.co/llms.txt)
 - [getlago.com (full)](https://getlago.com/docs/llms-full.txt)
 - [getlago.com](https://getlago.com/docs/llms.txt)
+- [gettheperch.com (full)](https://gettheperch.com/llms-full.txt)
+- [gettheperch.com](https://gettheperch.com/llms.txt)
 - [getvaletparking.com](https://getvaletparking.com/llms.txt)
 - [github.com](https://github.com/SecretiveShell/MCP-llms-txt)
 - [glaforge.dev (full)](https://glaforge.dev/llms-full.txt)
