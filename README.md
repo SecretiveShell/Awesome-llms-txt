@@ -3,6 +3,7 @@
 This list contains an index of llms.txt files hosted on various websites. Attach them to your llm with [MCP-llms-txt](https://github.com/SecretiveShell/MCP-llms-txt)
 
 - [8bitconcepts.com](https://8bitconcepts.com/llms.txt)
+- [a2oliteai.org](https://a2oliteai.org/llms.txt)
 - [abonnement-iptv-france.fr](https://abonnement-iptv-france.fr/llms.txt)
 - [absoluteinternship.com](https://absoluteinternship.com/llms.txt)
 - [adsbravo.com](https://adsbravo.com/llms.txt)
@@ -104,6 +105,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [developers.portone.io](https://developers.portone.io/llms.txt)
 - [developers.raycast.com](https://developers.raycast.com/llms.txt)
 - [developers.sitecore.com](https://developers.sitecore.com/llms.txt)
+- [dimedimebabyai.dev](https://dimedimebabyai.dev/llms.txt)
 - [directory.llmstxt.cloud](https://directory.llmstxt.cloud/llms.txt)
 - [dnacore.ai](https://dnacore.ai/llms.txt)
 - [docs-en.sinch.com](https://docs-en.sinch.com/llms.txt)
@@ -506,6 +508,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [jobdatafeeds.com](https://jobdatafeeds.com/llms.txt)
 - [jord.in](https://jord.in/llms.txt)
 - [js.langchain.com](https://js.langchain.com/llms.txt)
+- [kdafirestarterai.dev](https://kdafirestarterai.dev/llms.txt)
 - [kdpbook.io (full)](https://kdpbook.io/llms-full.txt)
 - [kdpbook.io](https://kdpbook.io/llms.txt)
 - [kitazawa.dev](https://kitazawa.dev/llms.txt)
