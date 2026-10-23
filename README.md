@@ -663,6 +663,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [thedrop.gifts](https://thedrop.gifts/llms.txt)
 - [theirstack.com (full)](https://theirstack.com/docs/llms-full.txt)
 - [theirstack.com](https://theirstack.com/docs/llms.txt)
+- [thenichesociety.ro (full)](https://thenichesociety.ro/llms-full.txt)
+- [thenichesociety.ro](https://thenichesociety.ro/llms.txt)
 - [tiptap.dev](https://tiptap.dev/llms.txt)
 - [toolpantry.app (full)](https://toolpantry.app/llms-full.txt)
 - [toolpantry.app](https://toolpantry.app/llms.txt)
