@@ -714,6 +714,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [www.apibara.com](https://www.apibara.com/llms.txt)
 - [www.aptible.com (full)](https://www.aptible.com/docs/llms-full.txt)
 - [www.aptible.com](https://www.aptible.com/docs/llms.txt)
+- [www.axpecto.com (full)](https://www.axpecto.com/llms-full.txt)
+- [www.axpecto.com](https://www.axpecto.com/llms.txt)
 - [www.azumuta.com](https://www.azumuta.com/llms.txt)
 - [www.better-auth.com](https://www.better-auth.com/llms.txt)
 - [www.bitcoin.com](https://www.bitcoin.com/llms.txt)
