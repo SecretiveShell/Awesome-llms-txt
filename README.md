@@ -453,6 +453,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [fasttool.app](https://fasttool.app/llms.txt)
 - [feedthejoe.com](https://feedthejoe.com/llms.txt)
 - [findmine.com](https://findmine.com/llms.txt)
+- [firstsearch.ai (full)](https://firstsearch.ai/llms-full.txt)
+- [firstsearch.ai](https://firstsearch.ai/llms.txt)
 - [flatfile.com (full)](https://flatfile.com/docs/llms-full.txt)
 - [flatfile.com](https://flatfile.com/docs/llms.txt)
 - [frontmatter.codes](https://frontmatter.codes/llms.txt)
