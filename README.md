@@ -567,6 +567,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [navi-lang.org (full)](https://navi-lang.org/llms-full.txt)
 - [navi-lang.org](https://navi-lang.org/llms.txt)
 - [neuronup.com](https://neuronup.com/llms.txt)
+- [news.kiwistand.com](https://news.kiwistand.com/llms.txt)
 - [nexech.com](https://nexech.com/llms.txt)
 - [nohumans.xyz (full)](https://nohumans.xyz/llms-full.txt)
 - [nohumans.xyz](https://nohumans.xyz/llms.txt)
