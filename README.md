@@ -544,6 +544,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [maxaeo.ai](https://maxaeo.ai/llms.txt)
 - [medscanada.com (full)](https://medscanada.com/llms-full.txt)
 - [medscanada.com](https://medscanada.com/llms.txt)
+- [mentioned.at (full)](https://mentioned.at/llms-full.txt)
+- [mentioned.at](https://mentioned.at/llms.txt)
 - [mercedeselizalde.es](https://mercedeselizalde.es/llms.txt)
 - [mikelev.in](https://mikelev.in/llms.txt)
 - [mintlify.com (full)](https://mintlify.com/docs/llms-full.txt)
