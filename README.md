@@ -651,6 +651,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [swarmmemo.com](https://swarmmemo.com/llms.txt)
 - [talkpython.fm](https://talkpython.fm/llms.txt)
 - [tamagui.dev](https://tamagui.dev/llms.txt)
+- [taskpush.ai (full)](https://taskpush.ai/llms-full.txt)
+- [taskpush.ai](https://taskpush.ai/llms.txt)
 - [telescope.co](https://telescope.co/llms.txt)
 - [thataiguy.org](https://thataiguy.org/llms.txt)
 - [thatdeveloperguy.com](https://thatdeveloperguy.com/llms.txt)
