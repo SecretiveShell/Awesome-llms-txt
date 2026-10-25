@@ -449,6 +449,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [eyalsec.com (full)](https://eyalsec.com/llms-full.txt)
 - [eyalsec.com](https://eyalsec.com/llms.txt)
 - [faq.karrier.one](https://faq.karrier.one/llms.txt)
+- [farrelldan.github.io/ai-bot-directory](https://farrelldan.github.io/ai-bot-directory/llms.txt)
 - [fastcrw.com](https://fastcrw.com/llms.txt)
 - [fasttool.app](https://fasttool.app/llms.txt)
 - [feedthejoe.com](https://feedthejoe.com/llms.txt)
