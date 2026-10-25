@@ -478,6 +478,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [herd.garden (full)](https://herd.garden/llms-full.txt)
 - [herd.garden](https://herd.garden/llms.txt)
 - [heritagehardwoodfloors.thatwebhostingguy.com](https://heritagehardwoodfloors.thatwebhostingguy.com/llms.txt)
+- [heyresearch.xyz](https://heyresearch.xyz/llms.txt)
 - [himalayas.app](https://himalayas.app/llms.txt)
 - [hola.org](https://hola.org/llms.txt)
 - [hono.dev](https://hono.dev/llms.txt)
