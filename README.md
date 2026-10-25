@@ -436,6 +436,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [drinkedin.net (full)](https://drinkedin.net/llms-full.txt)
 - [drinkedin.net](https://drinkedin.net/llms.txt)
 - [dualmark.dev](https://dualmark.dev/llms.txt)
+- [duami.ai](https://duami.ai/llms.txt)
 - [dub.co (full)](https://dub.co/docs/llms-full.txt)
 - [dub.co](https://dub.co/docs/llms.txt)
 - [elevenlabs.io (full)](https://elevenlabs.io/docs/llms-full.txt)
