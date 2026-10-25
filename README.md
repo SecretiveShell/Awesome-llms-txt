@@ -56,6 +56,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [chakra-ui.com (full)](https://chakra-ui.com/llms-full.txt)
 - [chakra-ui.com](https://chakra-ui.com/llms.txt)
 - [charles-migaud.fr](https://charles-migaud.fr/llms.txt)
+- [chickensalt.pages.dev (full)](https://chickensalt.pages.dev/llms-full.txt)
+- [chickensalt.pages.dev](https://chickensalt.pages.dev/llms.txt)
 - [cichpack.com](https://cichpack.com/llms.txt)
 - [citability.ai (full)](https://citability.ai/llms-full.txt)
 - [citability.ai](https://citability.ai/llms.txt)
