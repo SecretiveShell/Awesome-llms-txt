@@ -839,3 +839,4 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [llmstxt.site](https://llmstxt.site)
 - [AI Product Index](https://index.percall.dev/llms.txt)
 - [CheckScore.ai](https://checkscore.ai/llms.txt)
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
