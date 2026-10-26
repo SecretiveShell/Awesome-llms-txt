@@ -492,6 +492,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [infisical.com (full)](https://infisical.com/docs/llms-full.txt)
 - [infisical.com](https://infisical.com/docs/llms.txt)
 - [inter-car.fr](https://inter-car.fr/llms.txt)
+- [iphonedatamanager.com (full)](https://iphonedatamanager.com/llms-full.txt)
+- [iphonedatamanager.com](https://iphonedatamanager.com/llms.txt)
 - [iqboatlifts.com (full)](https://iqboatlifts.com/llms-full.txt)
 - [iqboatlifts.com](https://iqboatlifts.com/llms.txt)
 - [isimplifyme.com](https://isimplifyme.com/llms.txt)
