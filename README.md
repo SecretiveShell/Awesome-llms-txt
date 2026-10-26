@@ -460,6 +460,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [galaxy.ai](https://galaxy.ai/llms.txt)
 - [geobuddy.co (full)](https://geobuddy.co/llms-full.txt)
 - [geobuddy.co](https://geobuddy.co/llms.txt)
+- [geoready.dev (full)](https://geoready.dev/llms-full.txt)
+- [geoready.dev](https://geoready.dev/llms.txt)
 - [getlago.com (full)](https://getlago.com/docs/llms-full.txt)
 - [getlago.com](https://getlago.com/docs/llms.txt)
 - [getvaletparking.com](https://getvaletparking.com/llms.txt)
