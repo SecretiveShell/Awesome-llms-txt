@@ -504,6 +504,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [js.langchain.com](https://js.langchain.com/llms.txt)
 - [kdpbook.io (full)](https://kdpbook.io/llms-full.txt)
 - [kdpbook.io](https://kdpbook.io/llms.txt)
+- [kevindurant735rocket-creator.github.io](https://kevindurant735rocket-creator.github.io/freetoolkit/llms.txt)
 - [kitazawa.dev](https://kitazawa.dev/llms.txt)
 - [konstruction.ca (full)](https://konstruction.ca/llms-full.txt)
 - [konstruction.ca](https://konstruction.ca/llms.txt)
