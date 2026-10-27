@@ -20,6 +20,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [alexop.dev](https://alexop.dev/llms.txt)
 - [alphix.com](https://alphix.com/llms.txt)
 - [api-docs.devhub.com](https://api-docs.devhub.com/llms.txt)
+- [api-meter-lab.pages.dev (full)](https://api-meter-lab.pages.dev/llms-full.txt)
+- [api-meter-lab.pages.dev](https://api-meter-lab.pages.dev/llms.txt)
 - [apify.com](https://apify.com/llms.txt)
 - [app.sfdj.net](https://app.sfdj.net/llms.txt)
 - [appzung.com](https://appzung.com/llms.txt)
