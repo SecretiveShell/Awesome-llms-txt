@@ -839,3 +839,5 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [llmstxt.site](https://llmstxt.site)
 - [AI Product Index](https://index.percall.dev/llms.txt)
 - [CheckScore.ai](https://checkscore.ai/llms.txt)
+- [northstar-resort-staging.northstar-trustrail.workers.dev (full)](https://northstar-resort-staging.northstar-trustrail.workers.dev/llms-full.txt)
+- [northstar-resort-staging.northstar-trustrail.workers.dev](https://northstar-resort-staging.northstar-trustrail.workers.dev/llms.txt)
