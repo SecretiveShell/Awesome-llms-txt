@@ -589,6 +589,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [pandaci.com](https://pandaci.com/llms.txt)
 - [papergraderpro.com](https://papergraderpro.com/llms.txt)
 - [partners.clickwise.net](https://partners.clickwise.net/llms.txt)
+- [pictograph.io (full)](https://pictograph.io/docs/llms-full.txt)
+- [pictograph.io](https://pictograph.io/llms.txt)
 - [pixelvault.dev](https://pixelvault.dev/llms.txt)
 - [plasticol.es](https://plasticol.es/llms.txt)
 - [pokerreborn.com (full)](https://pokerreborn.com/llms-full.txt)
