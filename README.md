@@ -39,6 +39,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [bisresearch.com](https://bisresearch.com/llms.txt)
 - [bits-ui.com](https://bits-ui.com/llms.txt)
 - [bjjgraph.org](https://bjjgraph.org/llms.txt)
+- [blazephoenix.xyz (full)](https://blazephoenix.xyz/llms-full.txt)
+- [blazephoenix.xyz](https://blazephoenix.xyz/llms.txt)
 - [blog.calendarscripts.info](https://blog.calendarscripts.info/llms.txt)
 - [blog.pacificcert.com](https://blog.pacificcert.com/llms.txt)
 - [blog.pics.io](https://blog.pics.io/static/llms.txt)
