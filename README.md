@@ -715,6 +715,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [www.aptible.com (full)](https://www.aptible.com/docs/llms-full.txt)
 - [www.aptible.com](https://www.aptible.com/docs/llms.txt)
 - [www.azumuta.com](https://www.azumuta.com/llms.txt)
+- [www.bestprice.gr (full)](https://www.bestprice.gr/llms-full.txt)
+- [www.bestprice.gr](https://www.bestprice.gr/llms.txt)
 - [www.better-auth.com](https://www.better-auth.com/llms.txt)
 - [www.bitcoin.com](https://www.bitcoin.com/llms.txt)
 - [www.bkkstaff.com](https://www.bkkstaff.com/llms.txt)
