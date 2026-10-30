@@ -720,6 +720,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [www.bkkstaff.com](https://www.bkkstaff.com/llms.txt)
 - [www.chakra-ui.com](https://www.chakra-ui.com/llms.txt)
 - [www.clever-cloud.com](https://www.clever-cloud.com/developers/llms.txt)
+- [www.clickdragfinance.com (full)](https://www.clickdragfinance.com/llms-full.txt)
+- [www.clickdragfinance.com](https://www.clickdragfinance.com/llms.txt)
 - [www.cobo.com (full)](https://www.cobo.com/developers/llms-full.txt)
 - [www.cobo.com](https://www.cobo.com/developers/llms.txt)
 - [www.codeant.ai](https://www.codeant.ai/llms.txt)
