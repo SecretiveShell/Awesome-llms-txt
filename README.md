@@ -6,6 +6,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [abonnement-iptv-france.fr](https://abonnement-iptv-france.fr/llms.txt)
 - [absoluteinternship.com](https://absoluteinternship.com/llms.txt)
 - [adsbravo.com](https://adsbravo.com/llms.txt)
+- [aeofootnotes.com (full)](https://aeofootnotes.com/llms-full.txt)
+- [aeofootnotes.com](https://aeofootnotes.com/llms.txt)
 - [agentgrade.com (full)](https://agentgrade.com/llms-full.txt)
 - [agentgrade.com](https://agentgrade.com/llms.txt)
 - [agentpay.agentpay-apis.workers.dev](https://agentpay.agentpay-apis.workers.dev/llms.txt)
