@@ -37,6 +37,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [bika.ai](https://bika.ai/llms.txt)
 - [birkinbagstock.com](https://birkinbagstock.com/llms.txt)
 - [bisresearch.com](https://bisresearch.com/llms.txt)
+- [bitlanglang.com (full)](https://bitlanglang.com/llms-full.txt)
+- [bitlanglang.com](https://bitlanglang.com/llms.txt)
 - [bits-ui.com](https://bits-ui.com/llms.txt)
 - [bjjgraph.org](https://bjjgraph.org/llms.txt)
 - [blog.calendarscripts.info](https://blog.calendarscripts.info/llms.txt)
