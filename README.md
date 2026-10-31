@@ -457,6 +457,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [flatfile.com](https://flatfile.com/docs/llms.txt)
 - [frontmatter.codes](https://frontmatter.codes/llms.txt)
 - [fundamentalgroup.com](https://fundamentalgroup.com/llms.txt)
+- [gaash.ai](https://gaash.ai/llms.txt)
 - [galaxy.ai](https://galaxy.ai/llms.txt)
 - [geobuddy.co (full)](https://geobuddy.co/llms-full.txt)
 - [geobuddy.co](https://geobuddy.co/llms.txt)
