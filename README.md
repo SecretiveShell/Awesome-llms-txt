@@ -2,6 +2,8 @@
 
 This list contains an index of llms.txt files hosted on various websites. Attach them to your llm with [MCP-llms-txt](https://github.com/SecretiveShell/MCP-llms-txt)
 
+- [212medya.com.tr (full)](https://212medya.com.tr/llms-full.txt)
+- [212medya.com.tr](https://212medya.com.tr/llms.txt)
 - [8bitconcepts.com](https://8bitconcepts.com/llms.txt)
 - [abonnement-iptv-france.fr](https://abonnement-iptv-france.fr/llms.txt)
 - [absoluteinternship.com](https://absoluteinternship.com/llms.txt)
