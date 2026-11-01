@@ -500,6 +500,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [jimukiki.net](https://jimukiki.net/llms.txt)
 - [jobdatafeeds.com (full)](https://jobdatafeeds.com/llms-full.txt)
 - [jobdatafeeds.com](https://jobdatafeeds.com/llms.txt)
+- [jobspipe.dev (full)](https://jobspipe.dev/llms-full.txt)
+- [jobspipe.dev](https://jobspipe.dev/llms.txt)
 - [jord.in](https://jord.in/llms.txt)
 - [js.langchain.com](https://js.langchain.com/llms.txt)
 - [kdpbook.io (full)](https://kdpbook.io/llms-full.txt)
