@@ -668,6 +668,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [toolpantry.app](https://toolpantry.app/llms.txt)
 - [toriut.com](https://toriut.com/llms.txt)
 - [torquecommunications.in](https://torquecommunications.in/llms.txt)
+- [torqueindex.com](https://torqueindex.com/llms.txt)
 - [trackvia.com](https://trackvia.com/llms.txt)
 - [transloadit.com (full)](https://transloadit.com/llms-full.txt)
 - [transloadit.com](https://transloadit.com/llms.txt)
