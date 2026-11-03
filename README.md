@@ -536,6 +536,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [lotsofcsvs.com](https://lotsofcsvs.com/llms.txt)
 - [lugg.com](https://lugg.com/llms.txt)
 - [makojs.dev](https://makojs.dev/llms.txt)
+- [mandarinrecall.com (full)](https://mandarinrecall.com/llms-full.txt)
+- [mandarinrecall.com](https://mandarinrecall.com/llms.txt)
 - [manifest.ly (full)](https://manifest.ly/llms-full.txt)
 - [manifest.ly](https://manifest.ly/llms.txt)
 - [maplebridge.io](https://maplebridge.io/llms.txt)
