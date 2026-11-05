@@ -590,6 +590,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [papergraderpro.com](https://papergraderpro.com/llms.txt)
 - [partners.clickwise.net](https://partners.clickwise.net/llms.txt)
 - [pixelvault.dev](https://pixelvault.dev/llms.txt)
+- [pixvibe.ai](https://pixvibe.ai/llms.txt)
 - [plasticol.es](https://plasticol.es/llms.txt)
 - [pokerreborn.com (full)](https://pokerreborn.com/llms-full.txt)
 - [pokerreborn.com](https://pokerreborn.com/llms.txt)
