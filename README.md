@@ -718,6 +718,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [www.better-auth.com](https://www.better-auth.com/llms.txt)
 - [www.bitcoin.com](https://www.bitcoin.com/llms.txt)
 - [www.bkkstaff.com](https://www.bkkstaff.com/llms.txt)
+- [www.cents-security.com](https://www.cents-security.com/llms.txt)
 - [www.chakra-ui.com](https://www.chakra-ui.com/llms.txt)
 - [www.clever-cloud.com](https://www.clever-cloud.com/developers/llms.txt)
 - [www.cobo.com (full)](https://www.cobo.com/developers/llms-full.txt)
