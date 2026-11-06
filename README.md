@@ -487,6 +487,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [huggingface-projects-docs-llms-txt.hf.space](https://huggingface-projects-docs-llms-txt.hf.space/huggingface_hub/llms.txt)
 - [huggingface-projects-docs-llms-txt.hf.space](https://huggingface-projects-docs-llms-txt.hf.space/transformers/llms.txt)
 - [iceberg.ma](https://iceberg.ma/llms.txt)
+- [ilook.fit (full)](https://www.ilook.fit/llms-full.txt)
+- [ilook.fit](https://www.ilook.fit/llms.txt)
 - [indexagentica.com (full)](https://indexagentica.com/llms-full.txt)
 - [indexagentica.com](https://indexagentica.com/llms.txt)
 - [infisical.com (full)](https://infisical.com/docs/llms-full.txt)
