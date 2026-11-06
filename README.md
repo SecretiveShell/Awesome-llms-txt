@@ -160,6 +160,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [docs.bixgrow.com](https://docs.bixgrow.com/llms.txt)
 - [docs.blockscout.com](https://docs.blockscout.com/llms.txt)
 - [docs.blocksscan.io](https://docs.blocksscan.io/llms.txt)
+- [docs.blockvectra.com (full)](https://docs.blockvectra.com/en/llms-full.txt)
+- [docs.blockvectra.com](https://docs.blockvectra.com/en/llms.txt)
 - [docs.boltz.exchange](https://docs.boltz.exchange/llms.txt)
 - [docs.brandfetch.com](https://docs.brandfetch.com/llms.txt)
 - [docs.brightdata.com](https://docs.brightdata.com/llms.txt)
