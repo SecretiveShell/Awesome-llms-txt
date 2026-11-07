@@ -658,6 +658,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [thatdevpro.com](https://thatdevpro.com/llms.txt)
 - [thatwebhostingguy.com](https://thatwebhostingguy.com/llms.txt)
 - [thdu.dev](https://thdu.dev/llms.txt)
+- [the-ai-record.com (full)](https://the-ai-record.com/llms-full.txt)
+- [the-ai-record.com](https://the-ai-record.com/llms.txt)
 - [the-seo-autopilot.com](https://the-seo-autopilot.com/llms.txt)
 - [thedrop.gifts (full)](https://thedrop.gifts/llms-full.txt)
 - [thedrop.gifts](https://thedrop.gifts/llms.txt)
