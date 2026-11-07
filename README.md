@@ -455,6 +455,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [findmine.com](https://findmine.com/llms.txt)
 - [flatfile.com (full)](https://flatfile.com/docs/llms-full.txt)
 - [flatfile.com](https://flatfile.com/docs/llms.txt)
+- [fluentoo.fr (full)](https://fluentoo.fr/llms-full.txt)
+- [fluentoo.fr](https://fluentoo.fr/llms.txt)
 - [frontmatter.codes](https://frontmatter.codes/llms.txt)
 - [fundamentalgroup.com](https://fundamentalgroup.com/llms.txt)
 - [galaxy.ai](https://galaxy.ai/llms.txt)
