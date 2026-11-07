@@ -706,6 +706,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [webrecorder.net](https://webrecorder.net/llms.txt)
 - [wordlift.io](https://wordlift.io/llms.txt)
 - [wpseo.it](https://wpseo.it/llms.txt)
+- [wqai.ltd](https://wqai.ltd/llms.txt)
 - [www.activepieces.com (full)](https://www.activepieces.com/docs/llms-full.txt)
 - [www.activepieces.com](https://www.activepieces.com/docs/llms.txt)
 - [www.aerospacedomain.com](https://www.aerospacedomain.com/llms.txt)
