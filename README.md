@@ -832,7 +832,11 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [xquik.com](https://xquik.com/llms.txt)
 - [zbrain.ai](https://zbrain.ai/llms.txt)
 
+- [ronanchnlps-bit.github.io](https://ronanchnlps-bit.github.io/llms.txt)
+
 ## Directories
+
+- [AccessGuard 391-Brand AI Readiness & llms.txt Directory](https://ronanchnlps-bit.github.io/llms.txt)
 
 - [llms.txt hub](https://llmstxthub.com)
 - [directory.llmstxt.cloud](https://directory.llmstxt.cloud)
