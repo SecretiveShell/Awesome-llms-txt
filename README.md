@@ -687,6 +687,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [upstash.com](https://upstash.com/docs/llms.txt)
 - [use-fireproof.com (full)](https://use-fireproof.com/llms-full.txt)
 - [use-fireproof.com](https://use-fireproof.com/llms.txt)
+- [useclick.io](https://useclick.io/llms.txt)
 - [uxpatterns.dev (full)](https://uxpatterns.dev/en/llms-full.txt)
 - [uxpatterns.dev](https://uxpatterns.dev/en/llms.txt)
 - [valdhealth.com](https://valdhealth.com/llms.txt)
