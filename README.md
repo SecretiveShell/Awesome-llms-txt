@@ -561,6 +561,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [muspimerol.site (full)](https://muspimerol.site/llms-full.txt)
 - [muspimerol.site](https://muspimerol.site/llms.txt)
 - [mydentify.com](https://mydentify.com/tools/ai-crawler-access-checker/llms.txt)
+- [mynth.io (full)](https://mynth.io/llms-full.txt)
+- [mynth.io](https://mynth.io/llms.txt)
 - [mystery-o-matic.com](https://mystery-o-matic.com/llms.txt)
 - [mysticsmm.com (full)](https://mysticsmm.com/llms-full.txt)
 - [mysticsmm.com](https://mysticsmm.com/llms.txt)
