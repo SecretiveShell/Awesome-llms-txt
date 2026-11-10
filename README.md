@@ -442,6 +442,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [elevenlabs.io](https://elevenlabs.io/docs/llms.txt)
 - [emailgic.com](https://emailgic.com/llms.txt)
 - [erdaltoprak.com](https://erdaltoprak.com/llms.txt)
+- [errandcode.com](https://errandcode.com/llms.txt)
 - [evacalendar.app (full)](https://evacalendar.app/llms-full.txt)
 - [evacalendar.app](https://evacalendar.app/llms.txt)
 - [examace.ca (full)](https://examace.ca/llms-full.txt)
