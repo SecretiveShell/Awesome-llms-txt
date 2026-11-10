@@ -678,6 +678,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [turva.dev (full)](https://turva.dev/llms-full.txt)
 - [turva.dev](https://turva.dev/llms.txt)
 - [twittershots.com (full)](https://twittershots.com/llms-full.txt)
+- [uberllm.dev (full)](https://uberllm.dev/llms-full.txt)
+- [uberllm.dev](https://uberllm.dev/llms.txt)
 - [universalcommerceprotocol.blog](https://universalcommerceprotocol.blog/llms.txt)
 - [unlocksaas.com (full)](https://unlocksaas.com/llms-full.txt)
 - [unlocksaas.com](https://unlocksaas.com/llms.txt)
