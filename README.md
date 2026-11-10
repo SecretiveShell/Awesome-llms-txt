@@ -650,6 +650,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [svelte.nodejs.cn (full)](https://svelte.nodejs.cn/llms-full.txt)
 - [swarmmemo.com](https://swarmmemo.com/llms.txt)
 - [talkpython.fm](https://talkpython.fm/llms.txt)
+- [talonpanel.com](https://talonpanel.com/llms.txt)
 - [tamagui.dev](https://tamagui.dev/llms.txt)
 - [telescope.co](https://telescope.co/llms.txt)
 - [thataiguy.org](https://thataiguy.org/llms.txt)
