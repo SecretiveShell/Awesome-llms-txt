@@ -685,6 +685,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [upcgen.com](https://upcgen.com/llms.txt)
 - [upstash.com (full)](https://upstash.com/docs/llms-full.txt)
 - [upstash.com](https://upstash.com/docs/llms.txt)
+- [usamarketingpros.com](https://usamarketingpros.com/llms.txt)
 - [use-fireproof.com (full)](https://use-fireproof.com/llms-full.txt)
 - [use-fireproof.com](https://use-fireproof.com/llms.txt)
 - [uxpatterns.dev (full)](https://uxpatterns.dev/en/llms-full.txt)
