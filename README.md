@@ -64,6 +64,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [cleverhack.com](https://cleverhack.com/llms.txt)
 - [cloud.needle.tools (full)](https://cloud.needle.tools/llms-full.txt)
 - [cloud.needle.tools](https://cloud.needle.tools/llms.txt)
+- [cloudgpu.app (full)](https://cloudgpu.app/llms-full.txt)
+- [cloudgpu.app](https://cloudgpu.app/llms.txt)
 - [cog.run](https://cog.run/llms.txt)
 - [cogdepot.com](https://cogdepot.com/llms.txt)
 - [console.groq.com (full)](https://console.groq.com/llms-full.txt)
