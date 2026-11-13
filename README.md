@@ -699,6 +699,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [voxodds.com](https://voxodds.com/llms.txt)
 - [vue-macros.dev (full)](https://vue-macros.dev/llms-full.txt)
 - [vue-macros.dev](https://vue-macros.dev/llms.txt)
+- [wavegrain.com (full)](https://wavegrain.com/llms-full.txt)
+- [wavegrain.com](https://wavegrain.com/llms.txt)
 - [we-in-style.com](https://we-in-style.com/llms.txt)
 - [web3.career](https://web3.career/llms.txt)
 - [webkodingtheme.com](https://webkodingtheme.com/llms.txt)
