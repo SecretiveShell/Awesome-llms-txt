@@ -742,6 +742,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [www.emergentaviation.com](https://www.emergentaviation.com/llms.txt)
 - [www.erveysa.com](https://www.erveysa.com/llms.txt)
 - [www.fagaf.com](https://www.fagaf.com/llms.txt)
+- [www.getveritas.io (full)](https://www.getveritas.io/llms-full.txt)
+- [www.getveritas.io](https://www.getveritas.io/llms.txt)
 - [www.gilesthomas.com](https://www.gilesthomas.com/llms.txt)
 - [www.glideapps.com](https://www.glideapps.com/llms.txt)
 - [www.gradio.app](https://www.gradio.app/llms.txt)
