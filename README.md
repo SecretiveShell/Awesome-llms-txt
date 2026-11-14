@@ -669,6 +669,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [toriut.com](https://toriut.com/llms.txt)
 - [torquecommunications.in](https://torquecommunications.in/llms.txt)
 - [trackvia.com](https://trackvia.com/llms.txt)
+- [transformer.gg](https://transformer.gg/llms.txt)
 - [transloadit.com (full)](https://transloadit.com/llms-full.txt)
 - [transloadit.com](https://transloadit.com/llms.txt)
 - [travelmemo.com](https://travelmemo.com/llms.txt)
