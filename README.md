@@ -571,6 +571,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [nohumans.xyz (full)](https://nohumans.xyz/llms-full.txt)
 - [nohumans.xyz](https://nohumans.xyz/llms.txt)
 - [norwegian4x4.com](https://norwegian4x4.com/llms.txt)
+- [nostairsplease.com](https://nostairsplease.com/llms.txt)
 - [nothumansearch.ai (full)](https://nothumansearch.ai/llms-full.txt)
 - [nothumansearch.ai](https://nothumansearch.ai/llms.txt)
 - [novilabs.com](https://novilabs.com/llms.txt)
