@@ -553,6 +553,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [mocktails.store](https://mocktails.store/llms.txt)
 - [modelcontextprotocol.io (full)](https://modelcontextprotocol.io/llms-full.txt)
 - [modelcontextprotocol.io](https://modelcontextprotocol.io/llms.txt)
+- [modelmoot.com (full)](https://modelmoot.com/llms-full.txt)
+- [modelmoot.com](https://modelmoot.com/llms.txt)
 - [mojeterminy.pl](https://mojeterminy.pl/llms.txt)
 - [monsterui.answer.ai](https://monsterui.answer.ai/llms.txt)
 - [movehealth.me](https://movehealth.me/llms.txt)
