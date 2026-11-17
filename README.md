@@ -61,6 +61,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [citability.ai](https://citability.ai/llms.txt)
 - [citeable.eu (full)](https://citeable.eu/llms-full.txt)
 - [citeable.eu](https://citeable.eu/llms.txt)
+- [citemark.io](https://citemark.io/llms.txt)
 - [cleverhack.com](https://cleverhack.com/llms.txt)
 - [cloud.needle.tools (full)](https://cloud.needle.tools/llms-full.txt)
 - [cloud.needle.tools](https://cloud.needle.tools/llms.txt)
