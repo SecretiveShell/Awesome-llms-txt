@@ -502,6 +502,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [jobdatafeeds.com](https://jobdatafeeds.com/llms.txt)
 - [jord.in](https://jord.in/llms.txt)
 - [js.langchain.com](https://js.langchain.com/llms.txt)
+- [kalistorik.com (full)](https://kalistorik.com/llms-full.txt)
+- [kalistorik.com](https://kalistorik.com/llms.txt)
 - [kdpbook.io (full)](https://kdpbook.io/llms-full.txt)
 - [kdpbook.io](https://kdpbook.io/llms.txt)
 - [kitazawa.dev](https://kitazawa.dev/llms.txt)
