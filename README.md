@@ -831,7 +831,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [xquik.com (full)](https://xquik.com/llms-full.txt)
 - [xquik.com](https://xquik.com/llms.txt)
 - [zbrain.ai](https://zbrain.ai/llms.txt)
-
+- [TripleW Digital](https://triplew.ma/llms.txt) [(full)](https://triplew.ma/llms-full.txt)
 ## Directories
 
 - [llms.txt hub](https://llmstxthub.com)
