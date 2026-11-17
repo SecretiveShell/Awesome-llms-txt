@@ -630,6 +630,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [signaturegen.app (full)](https://signaturegen.app/llms-full.txt)
 - [signaturegen.app](https://signaturegen.app/llms.txt)
 - [sigtech.com](https://sigtech.com/llms.txt)
+- [sitecube.com (full)](https://sitecube.com/llms-full.txt)
+- [sitecube.com](https://sitecube.com/llms.txt)
 - [siteria.by](https://siteria.by/llms.txt)
 - [sitespeak.ai](https://sitespeak.ai/llms.txt)
 - [smartcar.com (full)](https://smartcar.com/docs/llms-full.txt)
