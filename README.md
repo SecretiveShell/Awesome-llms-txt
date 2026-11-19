@@ -44,6 +44,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [blog.pics.io](https://blog.pics.io/static/llms.txt)
 - [blog.teraren.com](https://blog.teraren.com/llms.txt)
 - [blog.zithara.com](https://blog.zithara.com/llms.txt)
+- [bluesky.bot (full)](https://bluesky.bot/llms-full.txt)
+- [bluesky.bot](https://bluesky.bot/llms.txt)
 - [boehs.org](https://boehs.org/llms.txt)
 - [booqable.com](https://booqable.com/llms.txt)
 - [brewpage.app (full)](https://brewpage.app/llms-full.txt)
