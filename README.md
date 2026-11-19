@@ -14,6 +14,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [ai-interviewer.micro1.ai](https://ai-interviewer.micro1.ai/llms.txt)
 - [ai.topxea.com (full)](https://ai.topxea.com/llms-full.txt)
 - [ai.topxea.com](https://ai.topxea.com/llms.txt)
+- [aicharts.io](https://aicharts.io/llms.txt)
 - [aidevboard.com](https://aidevboard.com/llms.txt)
 - [aifruit.app](https://aifruit.app/llms.txt)
 - [akademicevre.com](https://akademicevre.com/llms.txt)
