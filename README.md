@@ -72,6 +72,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [cookbook_ao.g8way.io](https://cookbook_ao.g8way.io/llms.txt)
 - [crawlgraph.com (full)](https://crawlgraph.com/llms-full.txt)
 - [crawlgraph.com](https://crawlgraph.com/llms.txt)
+- [cryptocurrency.cv (full)](https://cryptocurrency.cv/llms-full.txt)
+- [cryptocurrency.cv](https://cryptocurrency.cv/llms.txt)
 - [curlshot.com (full)](https://curlshot.com/llms-full.txt)
 - [curlshot.com](https://curlshot.com/llms.txt)
 - [cv.ryoppippi.com (full)](https://cv.ryoppippi.com/llms-full.txt)
