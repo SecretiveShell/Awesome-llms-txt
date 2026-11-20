@@ -672,6 +672,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [transloadit.com (full)](https://transloadit.com/llms-full.txt)
 - [transloadit.com](https://transloadit.com/llms.txt)
 - [travelmemo.com](https://travelmemo.com/llms.txt)
+- [trayui.com (full)](https://trayui.com/llms-full.txt)
+- [trayui.com](https://trayui.com/llms.txt)
 - [trigger.dev (full)](https://trigger.dev/docs/llms-full.txt)
 - [trigger.dev](https://trigger.dev/docs/llms.txt)
 - [turbo.build](https://turbo.build/llms.txt)
