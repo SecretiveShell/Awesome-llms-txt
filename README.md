@@ -620,6 +620,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [rookiefeed.com](https://rookiefeed.com/llms.txt)
 - [rubric.com](https://rubric.com/llms.txt)
 - [sankeydiagram.net](https://sankeydiagram.net/llms.txt)
+- [satsforbots.com](https://satsforbots.com/llms.txt)
 - [screenshotone.com (full)](https://screenshotone.com/docs/llms-full.txt)
 - [screenshotone.com](https://screenshotone.com/docs/llms.txt)
 - [sdk.vercel.ai](https://sdk.vercel.ai/llms.txt)
