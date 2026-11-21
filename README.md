@@ -497,6 +497,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [isimplifyme.com](https://isimplifyme.com/llms.txt)
 - [jazz.tools (full)](https://jazz.tools/llms-full.txt)
 - [jazz.tools](https://jazz.tools/llms.txt)
+- [jellymeter.com (full)](https://jellymeter.com/llms-full.txt)
+- [jellymeter.com](https://jellymeter.com/llms.txt)
 - [jimukiki.net](https://jimukiki.net/llms.txt)
 - [jobdatafeeds.com (full)](https://jobdatafeeds.com/llms-full.txt)
 - [jobdatafeeds.com](https://jobdatafeeds.com/llms.txt)
