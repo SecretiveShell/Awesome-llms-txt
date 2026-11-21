@@ -839,3 +839,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [llmstxt.site](https://llmstxt.site)
 - [AI Product Index](https://index.percall.dev/llms.txt)
 - [CheckScore.ai](https://checkscore.ai/llms.txt)
+- [vn-vps-ai.earnviral.com (full)](https://vn-vps-ai.earnviral.com/llms-full.txt)
+- [vn-vps-ai.earnviral.com](https://vn-vps-ai.earnviral.com/llms.txt)
+- [workflowcost.earnviral.com (full)](https://workflowcost.earnviral.com/llms-full.txt)
+- [workflowcost.earnviral.com](https://workflowcost.earnviral.com/llms.txt)
