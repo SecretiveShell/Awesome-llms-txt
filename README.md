@@ -609,6 +609,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [rainbowkit.com](https://rainbowkit.com/llms.txt)
 - [raincamp.ai](https://raincamp.ai/llms.txt)
 - [rankscale.ai](https://rankscale.ai/llms.txt)
+- [rare-disease-atlas.github.io (full)](https://rare-disease-atlas.github.io/llms-full.txt)
+- [rare-disease-atlas.github.io](https://rare-disease-atlas.github.io/llms.txt)
 - [raw.githubusercontent.com (full)](https://raw.githubusercontent.com/raycast/extensions/refs/heads/gh-pages/llms-full.txt)
 - [raw.githubusercontent.com](https://raw.githubusercontent.com/crackedngineer/iLoveGithub/refs/heads/master/llm.txt)
 - [razor-press.web-templates.io](https://razor-press.web-templates.io/llms.txt)
