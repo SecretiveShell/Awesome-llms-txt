@@ -85,7 +85,6 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [dekomaer.com](https://dekomaer.com/llms.txt)
 - [demotime.elio.dev](https://demotime.elio.dev/llms.txt)
 - [deployedbyai.com](https://deployedbyai.com/llms.txt)
-- [depot.fitness](https://depot.fitness/llms.txt)
 - [designmodo.com](https://designmodo.com/llms.txt)
 - [dev.classmethod.jp](https://dev.classmethod.jp/llms.txt)
 - [dev.writer.com](https://dev.writer.com/llms.txt)
