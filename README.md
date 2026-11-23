@@ -24,6 +24,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [app.sfdj.net](https://app.sfdj.net/llms.txt)
 - [appzung.com](https://appzung.com/llms.txt)
 - [arcadelab.ai](https://arcadelab.ai/llms.txt)
+- [arnikohackclub.com (full)](https://arnikohackclub.com/llms-full.txt)
+- [arnikohackclub.com](https://arnikohackclub.com/llms.txt)
 - [ast-grep.github.io (full)](https://ast-grep.github.io/llms-full.txt)
 - [ast-grep.github.io](https://ast-grep.github.io/llms.txt)
 - [aws-legalgroup.com](https://aws-legalgroup.com/llms.txt)
