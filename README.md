@@ -481,6 +481,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [himalayas.app](https://himalayas.app/llms.txt)
 - [hola.org](https://hola.org/llms.txt)
 - [hono.dev](https://hono.dev/llms.txt)
+- [hostmy.blog](https://hostmy.blog/llms.txt)
 - [huggingface-projects-docs-llms-txt.hf.space](https://huggingface-projects-docs-llms-txt.hf.space/accelerate/llms.txt)
 - [huggingface-projects-docs-llms-txt.hf.space](https://huggingface-projects-docs-llms-txt.hf.space/diffusers/llms.txt)
 - [huggingface-projects-docs-llms-txt.hf.space](https://huggingface-projects-docs-llms-txt.hf.space/hub/llms.txt)
