@@ -839,3 +839,5 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [llmstxt.site](https://llmstxt.site)
 - [AI Product Index](https://index.percall.dev/llms.txt)
 - [CheckScore.ai](https://checkscore.ai/llms.txt)
+- [q871958549.github.io/Tomoyo (full)](https://q871958549.github.io/Tomoyo/llms-full.txt)
+- [q871958549.github.io/Tomoyo](https://q871958549.github.io/Tomoyo/llms.txt)
