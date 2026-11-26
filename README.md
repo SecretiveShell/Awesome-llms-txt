@@ -469,6 +469,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [global-chat.io](https://global-chat.io/llms.txt)
 - [gokcetransfer.com](https://gokcetransfer.com/llms.txt)
 - [gr-docs.aporia.com](https://gr-docs.aporia.com/llms.txt)
+- [groundsocial.dev (full)](https://groundsocial.dev/llms-full.txt)
+- [groundsocial.dev](https://groundsocial.dev/llms.txt)
 - [gruzdevv.ru (full)](https://gruzdevv.ru/llms-full.txt)
 - [gruzdevv.ru](https://gruzdevv.ru/llms.txt)
 - [handbook.exemplar.dev (full)](https://handbook.exemplar.dev/llms-full.txt)
