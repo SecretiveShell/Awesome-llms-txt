@@ -639,6 +639,8 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [solt.app](https://solt.app/llms.txt)
 - [sourcegraph.com](https://sourcegraph.com/docs/llms.txt)
 - [sprytools.com](https://sprytools.com/llms.txt)
+- [stagepeek.live (full)](https://stagepeek.live/llms-full.txt)
+- [stagepeek.live](https://stagepeek.live/llms.txt)
 - [starwind.dev (full)](https://starwind.dev/llms-full.txt)
 - [starwind.dev](https://starwind.dev/llms.txt)
 - [steelesolutions4u.com](https://steelesolutions4u.com/llms.txt)
