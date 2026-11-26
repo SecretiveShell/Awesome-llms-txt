@@ -666,6 +666,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [tiptap.dev](https://tiptap.dev/llms.txt)
 - [toolpantry.app (full)](https://toolpantry.app/llms-full.txt)
 - [toolpantry.app](https://toolpantry.app/llms.txt)
+- [tools.fmf-x402.workers.dev](https://tools.fmf-x402.workers.dev/llms.txt?ref=awesome-llms-txt)
 - [toriut.com](https://toriut.com/llms.txt)
 - [torquecommunications.in](https://torquecommunications.in/llms.txt)
 - [trackvia.com](https://trackvia.com/llms.txt)
