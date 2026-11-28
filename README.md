@@ -671,6 +671,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [trackvia.com](https://trackvia.com/llms.txt)
 - [transloadit.com (full)](https://transloadit.com/llms-full.txt)
 - [transloadit.com](https://transloadit.com/llms.txt)
+- [trantai2911-ai.github.io/citelens-landing](https://trantai2911-ai.github.io/citelens-landing/llms.txt)
 - [travelmemo.com](https://travelmemo.com/llms.txt)
 - [trigger.dev (full)](https://trigger.dev/docs/llms-full.txt)
 - [trigger.dev](https://trigger.dev/docs/llms.txt)
